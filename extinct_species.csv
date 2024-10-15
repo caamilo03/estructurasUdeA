@@ -1,0 +1,2003 @@
+id,Species Name,Years Lived (Million Years),Extinction Reason
+1,Trilobite,337.75,Human Impact
+2,Smilodon,311.57,Natural Disaster
+3,Dodo,67.49,Mass Extinction
+4,Woolly Mammoth,89.81,Asteroid Impact
+5,Woolly Mammoth,395.72,Climate Change
+6,Dodo,44.99,Predation
+7,Tyrannosaurus Rex,334.35,Climate Change
+8,Smilodon,42.87,Habitat Loss
+9,Plesiosaur,264.58,Asteroid Impact
+10,Trilobite,54.16,Natural Disaster
+11,Dodo,441.25,Predation
+12,Plesiosaur,176.48,Asteroid Impact
+13,Plesiosaur,5.14,Climate Change
+14,Dodo,278.91,Mass Extinction
+15,Quagga,129.72,Predation
+16,Megalodon,250.45,Mass Extinction
+17,Steller���s S,495.52,Predation
+18,Steller���s S,110.13,Asteroid Impact
+19,Dodo,294.99,Mass Extinction
+20,Megalodon,52.39,Predation
+21,Trilobite,411.53,Human Impact
+22,Sabertooth Tiger,245.84,Natural Disaster
+23,Quagga,9.17,Predation
+24,Megalodon,5.34,Natural Disaster
+25,Dodo,402.16,Predation
+26,Smilodon,31.26,Habitat Loss
+27,Smilodon,180.24,Climate Change
+28,Steller���s S,246.33,Predation
+29,Quagga,349.82,Natural Disaster
+30,Quagga,252.99,Climate Change
+31,Dodo,62.26,Habitat Loss
+32,Smilodon,206.28,Habitat Loss
+33,Trilobite,424.57,Asteroid Impact
+34,Woolly Mammoth,404.78,Predation
+35,Steller���s S,420.14,Natural Disaster
+36,Woolly Mammoth,406.52,Human Impact
+37,Woolly Mammoth,148.63,Asteroid Impact
+38,Dodo,438.43,Predation
+39,Sabertooth Tiger,55.43,Natural Disaster
+40,Quagga,87.98,Asteroid Impact
+41,Quagga,296,Predation
+42,Sabertooth Tiger,484.95,Predation
+43,Megalodon,242.71,Climate Change
+44,Woolly Mammoth,298.46,Mass Extinction
+45,Trilobite,45.47,Mass Extinction
+46,Smilodon,85.49,Predation
+47,Plesiosaur,296.54,Human Impact
+48,Megalodon,452.88,Natural Disaster
+49,Steller���s S,323.8,Predation
+50,Megalodon,415.51,Habitat Loss
+51,Dodo,474.1,Mass Extinction
+52,Steller���s S,137.78,Mass Extinction
+53,Steller���s S,170.02,Climate Change
+54,Tyrannosaurus Rex,448.4,Human Impact
+55,Steller���s S,483.53,Habitat Loss
+56,Smilodon,275.48,Natural Disaster
+57,Megalodon,251.12,Predation
+58,Plesiosaur,188.98,Asteroid Impact
+59,Quagga,57.05,Asteroid Impact
+60,Dodo,352.35,Climate Change
+61,Megalodon,461.47,Natural Disaster
+62,Trilobite,71.7,Human Impact
+63,Smilodon,477.78,Mass Extinction
+64,Steller���s S,82.46,Habitat Loss
+65,Trilobite,1.47,Human Impact
+66,Plesiosaur,387.3,Mass Extinction
+67,Megalodon,224.87,Mass Extinction
+68,Tyrannosaurus Rex,370.97,Human Impact
+69,Megalodon,408.31,Asteroid Impact
+70,Steller���s S,59.78,Human Impact
+71,Steller���s S,17.22,Predation
+72,Trilobite,216.41,Predation
+73,Woolly Mammoth,107.65,Predation
+74,Steller���s S,254.38,Human Impact
+75,Smilodon,199.2,Habitat Loss
+76,Trilobite,360.26,Climate Change
+77,Steller���s S,159.03,Mass Extinction
+78,Smilodon,104.2,Human Impact
+79,Plesiosaur,483.4,Climate Change
+80,Steller���s S,82.76,Natural Disaster
+81,Plesiosaur,313.87,Predation
+82,Steller���s S,83.39,Predation
+83,Dodo,367.22,Natural Disaster
+84,Trilobite,456.94,Mass Extinction
+85,Megalodon,31.13,Asteroid Impact
+86,Woolly Mammoth,388.01,Predation
+87,Tyrannosaurus Rex,368.84,Predation
+88,Steller���s S,477.48,Human Impact
+89,Steller���s S,346.77,Natural Disaster
+90,Steller���s S,421.96,Natural Disaster
+91,Plesiosaur,432.93,Asteroid Impact
+92,Trilobite,472.39,Climate Change
+93,Trilobite,242.79,Climate Change
+94,Woolly Mammoth,482.2,Climate Change
+95,Megalodon,286.36,Asteroid Impact
+96,Trilobite,439.53,Climate Change
+97,Woolly Mammoth,202.74,Human Impact
+98,Tyrannosaurus Rex,39.94,Climate Change
+99,Tyrannosaurus Rex,354.13,Asteroid Impact
+100,Trilobite,190.52,Habitat Loss
+101,Megalodon,219.07,Habitat Loss
+102,Trilobite,270.23,Climate Change
+103,Megalodon,242.62,Predation
+104,Megalodon,440.26,Human Impact
+105,Quagga,277.78,Predation
+106,Sabertooth Tiger,328.64,Asteroid Impact
+107,Quagga,25.4,Predation
+108,Quagga,329.11,Natural Disaster
+109,Megalodon,350.98,Habitat Loss
+110,Tyrannosaurus Rex,479.09,Mass Extinction
+111,Megalodon,478.72,Asteroid Impact
+112,Dodo,307,Asteroid Impact
+113,Tyrannosaurus Rex,65.29,Climate Change
+114,Megalodon,396.82,Climate Change
+115,Plesiosaur,203.28,Habitat Loss
+116,Sabertooth Tiger,430.34,Predation
+117,Smilodon,178.7,Human Impact
+118,Megalodon,106.37,Predation
+119,Tyrannosaurus Rex,339.03,Natural Disaster
+120,Megalodon,420.86,Climate Change
+121,Woolly Mammoth,386.23,Climate Change
+122,Megalodon,178.52,Climate Change
+123,Woolly Mammoth,118.35,Habitat Loss
+124,Trilobite,221.88,Climate Change
+125,Woolly Mammoth,330.49,Human Impact
+126,Quagga,68.52,Predation
+127,Steller���s S,251.54,Asteroid Impact
+128,Sabertooth Tiger,382.16,Asteroid Impact
+129,Smilodon,164.59,Habitat Loss
+130,Woolly Mammoth,69.38,Habitat Loss
+131,Smilodon,126.6,Habitat Loss
+132,Tyrannosaurus Rex,450.35,Natural Disaster
+133,Dodo,32.43,Natural Disaster
+134,Quagga,188.09,Predation
+135,Smilodon,252.8,Mass Extinction
+136,Smilodon,120.86,Mass Extinction
+137,Megalodon,62.34,Asteroid Impact
+138,Smilodon,86.81,Predation
+139,Dodo,45.13,Climate Change
+140,Steller���s S,367.45,Habitat Loss
+141,Megalodon,253.07,Mass Extinction
+142,Sabertooth Tiger,237.94,Climate Change
+143,Megalodon,148.31,Predation
+144,Quagga,453.28,Natural Disaster
+145,Steller���s S,82.59,Predation
+146,Woolly Mammoth,477.97,Climate Change
+147,Dodo,454.82,Climate Change
+148,Smilodon,215.25,Predation
+149,Megalodon,403.11,Mass Extinction
+150,Megalodon,356.9,Mass Extinction
+151,Quagga,253.12,Natural Disaster
+152,Sabertooth Tiger,483.31,Predation
+153,Plesiosaur,320.65,Climate Change
+154,Plesiosaur,444.64,Predation
+155,Tyrannosaurus Rex,348.4,Climate Change
+156,Plesiosaur,386.97,Natural Disaster
+157,Sabertooth Tiger,24.59,Asteroid Impact
+158,Trilobite,142.42,Human Impact
+159,Trilobite,255.68,Climate Change
+160,Plesiosaur,496.41,Climate Change
+161,Steller���s S,245.67,Predation
+162,Tyrannosaurus Rex,402.17,Habitat Loss
+163,Megalodon,255.72,Human Impact
+164,Plesiosaur,420.04,Mass Extinction
+165,Plesiosaur,26.75,Habitat Loss
+166,Woolly Mammoth,245.75,Natural Disaster
+167,Trilobite,105.19,Natural Disaster
+168,Dodo,119.09,Predation
+169,Quagga,63.92,Predation
+170,Dodo,373.62,Human Impact
+171,Trilobite,194.08,Mass Extinction
+172,Trilobite,238,Human Impact
+173,Dodo,99.55,Natural Disaster
+174,Woolly Mammoth,266.86,Mass Extinction
+175,Megalodon,97.78,Mass Extinction
+176,Dodo,410.48,Predation
+177,Megalodon,3.1,Habitat Loss
+178,Smilodon,271.56,Natural Disaster
+179,Woolly Mammoth,48.45,Climate Change
+180,Dodo,377,Mass Extinction
+181,Tyrannosaurus Rex,179.65,Asteroid Impact
+182,Plesiosaur,330.74,Mass Extinction
+183,Plesiosaur,153.18,Human Impact
+184,Smilodon,477.43,Human Impact
+185,Tyrannosaurus Rex,142.81,Habitat Loss
+186,Plesiosaur,339.87,Mass Extinction
+187,Woolly Mammoth,467.73,Asteroid Impact
+188,Smilodon,467.31,Asteroid Impact
+189,Quagga,50.75,Predation
+190,Woolly Mammoth,294.65,Habitat Loss
+191,Steller���s S,446.43,Predation
+192,Quagga,444.01,Habitat Loss
+193,Tyrannosaurus Rex,424.16,Mass Extinction
+194,Dodo,187.79,Predation
+195,Quagga,6.29,Human Impact
+196,Megalodon,265.98,Mass Extinction
+197,Steller���s S,218.24,Mass Extinction
+198,Woolly Mammoth,301.14,Predation
+199,Steller���s S,59.41,Natural Disaster
+200,Dodo,34.13,Predation
+201,Smilodon,332.14,Habitat Loss
+202,Woolly Mammoth,333.92,Climate Change
+203,Quagga,354.45,Mass Extinction
+204,Trilobite,261.99,Mass Extinction
+205,Smilodon,314.44,Climate Change
+206,Quagga,173.05,Climate Change
+207,Sabertooth Tiger,150.4,Climate Change
+208,Woolly Mammoth,63.15,Human Impact
+209,Quagga,359.08,Climate Change
+210,Quagga,103.13,Human Impact
+211,Woolly Mammoth,301.65,Asteroid Impact
+212,Tyrannosaurus Rex,72.36,Asteroid Impact
+213,Woolly Mammoth,157.53,Habitat Loss
+214,Quagga,86.91,Predation
+215,Trilobite,36.05,Mass Extinction
+216,Plesiosaur,286.65,Predation
+217,Sabertooth Tiger,39.47,Human Impact
+218,Plesiosaur,263.92,Natural Disaster
+219,Smilodon,369.95,Asteroid Impact
+220,Smilodon,232.88,Habitat Loss
+221,Steller���s S,8.92,Habitat Loss
+222,Dodo,14.7,Asteroid Impact
+223,Megalodon,262.39,Mass Extinction
+224,Quagga,138.63,Predation
+225,Megalodon,26.53,Habitat Loss
+226,Plesiosaur,15.88,Habitat Loss
+227,Megalodon,162.31,Predation
+228,Megalodon,98.78,Human Impact
+229,Trilobite,228.37,Natural Disaster
+230,Tyrannosaurus Rex,493.96,Natural Disaster
+231,Tyrannosaurus Rex,461.2,Predation
+232,Megalodon,19.3,Human Impact
+233,Megalodon,383.38,Natural Disaster
+234,Trilobite,393.54,Natural Disaster
+235,Dodo,206.32,Human Impact
+236,Megalodon,386.49,Human Impact
+237,Sabertooth Tiger,11.16,Predation
+238,Steller���s S,65.41,Natural Disaster
+239,Smilodon,81.95,Mass Extinction
+240,Woolly Mammoth,123.8,Natural Disaster
+241,Steller���s S,266.18,Human Impact
+242,Steller���s S,394.99,Habitat Loss
+243,Megalodon,88.43,Habitat Loss
+244,Smilodon,46.56,Climate Change
+245,Plesiosaur,365.13,Mass Extinction
+246,Quagga,359.5,Natural Disaster
+247,Steller���s S,112.64,Climate Change
+248,Trilobite,443.55,Natural Disaster
+249,Tyrannosaurus Rex,93.11,Habitat Loss
+250,Steller���s S,329.83,Predation
+251,Tyrannosaurus Rex,457.47,Human Impact
+252,Smilodon,231.88,Predation
+253,Smilodon,378.73,Predation
+254,Dodo,372.98,Habitat Loss
+255,Dodo,50.78,Climate Change
+256,Steller���s S,406.63,Human Impact
+257,Smilodon,268.08,Human Impact
+258,Plesiosaur,471.28,Habitat Loss
+259,Woolly Mammoth,324.7,Asteroid Impact
+260,Dodo,47.62,Habitat Loss
+261,Dodo,428.36,Predation
+262,Sabertooth Tiger,390.24,Mass Extinction
+263,Sabertooth Tiger,312.06,Habitat Loss
+264,Sabertooth Tiger,286.81,Asteroid Impact
+265,Tyrannosaurus Rex,167.03,Natural Disaster
+266,Megalodon,318.48,Mass Extinction
+267,Sabertooth Tiger,327.79,Human Impact
+268,Plesiosaur,128.59,Habitat Loss
+269,Dodo,378.31,Mass Extinction
+270,Sabertooth Tiger,224.09,Climate Change
+271,Tyrannosaurus Rex,249.21,Asteroid Impact
+272,Trilobite,154.87,Human Impact
+273,Dodo,149.09,Habitat Loss
+274,Plesiosaur,254.86,Mass Extinction
+275,Megalodon,453.7,Human Impact
+276,Woolly Mammoth,181.05,Mass Extinction
+277,Woolly Mammoth,392.88,Predation
+278,Steller���s S,201.9,Habitat Loss
+279,Tyrannosaurus Rex,103.28,Predation
+280,Sabertooth Tiger,138.9,Mass Extinction
+281,Plesiosaur,171.02,Habitat Loss
+282,Smilodon,151.01,Climate Change
+283,Sabertooth Tiger,13.85,Mass Extinction
+284,Woolly Mammoth,357.68,Climate Change
+285,Trilobite,333.02,Predation
+286,Plesiosaur,447.84,Asteroid Impact
+287,Sabertooth Tiger,132.75,Predation
+288,Dodo,293.36,Asteroid Impact
+289,Megalodon,260.25,Climate Change
+290,Sabertooth Tiger,28.64,Predation
+291,Woolly Mammoth,247.08,Asteroid Impact
+292,Tyrannosaurus Rex,170.03,Predation
+293,Smilodon,176.85,Habitat Loss
+294,Megalodon,169.49,Human Impact
+295,Dodo,293.69,Natural Disaster
+296,Sabertooth Tiger,109.77,Predation
+297,Woolly Mammoth,425.69,Habitat Loss
+298,Steller���s S,425.04,Climate Change
+299,Megalodon,144.51,Asteroid Impact
+300,Woolly Mammoth,26.19,Mass Extinction
+301,Woolly Mammoth,263.02,Predation
+302,Dodo,306.33,Habitat Loss
+303,Steller���s S,399.99,Natural Disaster
+304,Trilobite,489.43,Asteroid Impact
+305,Dodo,264.33,Asteroid Impact
+306,Trilobite,465.62,Climate Change
+307,Woolly Mammoth,237.21,Asteroid Impact
+308,Steller���s S,399.3,Climate Change
+309,Plesiosaur,44.43,Mass Extinction
+310,Plesiosaur,306.47,Habitat Loss
+311,Woolly Mammoth,233.39,Asteroid Impact
+312,Steller���s S,95.55,Human Impact
+313,Steller���s S,416.07,Human Impact
+314,Woolly Mammoth,229.88,Climate Change
+315,Sabertooth Tiger,251.82,Predation
+316,Trilobite,388.82,Habitat Loss
+317,Woolly Mammoth,444.92,Predation
+318,Plesiosaur,62.35,Natural Disaster
+319,Plesiosaur,30.17,Mass Extinction
+320,Smilodon,362.42,Human Impact
+321,Sabertooth Tiger,159.76,Habitat Loss
+322,Steller���s S,110.77,Asteroid Impact
+323,Steller���s S,230.25,Habitat Loss
+324,Sabertooth Tiger,433.61,Natural Disaster
+325,Megalodon,307.31,Natural Disaster
+326,Woolly Mammoth,231.32,Asteroid Impact
+327,Quagga,457.04,Mass Extinction
+328,Sabertooth Tiger,331.28,Mass Extinction
+329,Sabertooth Tiger,120.1,Natural Disaster
+330,Quagga,315.56,Predation
+331,Woolly Mammoth,482.99,Natural Disaster
+332,Smilodon,70.26,Natural Disaster
+333,Sabertooth Tiger,206.47,Natural Disaster
+334,Sabertooth Tiger,440.19,Predation
+335,Trilobite,255.44,Asteroid Impact
+336,Quagga,232.67,Mass Extinction
+337,Steller���s S,86.4,Predation
+338,Steller���s S,205.52,Predation
+339,Steller���s S,102.45,Climate Change
+340,Steller���s S,446.52,Asteroid Impact
+341,Megalodon,477.75,Habitat Loss
+342,Trilobite,489.52,Asteroid Impact
+343,Tyrannosaurus Rex,6.7,Habitat Loss
+344,Smilodon,1.51,Predation
+345,Steller���s S,200.44,Habitat Loss
+346,Sabertooth Tiger,326.81,Mass Extinction
+347,Plesiosaur,66.57,Natural Disaster
+348,Dodo,195.11,Climate Change
+349,Smilodon,389.59,Natural Disaster
+350,Quagga,414.51,Natural Disaster
+351,Plesiosaur,118.75,Asteroid Impact
+352,Steller���s S,81.2,Mass Extinction
+353,Steller���s S,388.37,Climate Change
+354,Tyrannosaurus Rex,46.43,Habitat Loss
+355,Sabertooth Tiger,197.54,Natural Disaster
+356,Plesiosaur,398.02,Human Impact
+357,Plesiosaur,81.83,Climate Change
+358,Smilodon,346.66,Asteroid Impact
+359,Plesiosaur,463.24,Asteroid Impact
+360,Smilodon,258.73,Human Impact
+361,Quagga,274.8,Mass Extinction
+362,Trilobite,218.02,Human Impact
+363,Quagga,285.04,Asteroid Impact
+364,Quagga,251.58,Natural Disaster
+365,Dodo,430.89,Natural Disaster
+366,Dodo,222.02,Human Impact
+367,Tyrannosaurus Rex,140.7,Predation
+368,Dodo,92.44,Natural Disaster
+369,Sabertooth Tiger,293.24,Habitat Loss
+370,Dodo,315.99,Predation
+371,Megalodon,328.83,Mass Extinction
+372,Smilodon,352.4,Habitat Loss
+373,Smilodon,209.37,Climate Change
+374,Woolly Mammoth,145.6,Habitat Loss
+375,Megalodon,365.58,Asteroid Impact
+376,Dodo,71.48,Mass Extinction
+377,Tyrannosaurus Rex,438.06,Climate Change
+378,Woolly Mammoth,184.44,Climate Change
+379,Sabertooth Tiger,462.04,Natural Disaster
+380,Plesiosaur,496.34,Asteroid Impact
+381,Sabertooth Tiger,2.33,Natural Disaster
+382,Woolly Mammoth,218.07,Mass Extinction
+383,Plesiosaur,146.18,Asteroid Impact
+384,Steller���s S,171.35,Mass Extinction
+385,Trilobite,298.01,Climate Change
+386,Tyrannosaurus Rex,356.3,Mass Extinction
+387,Smilodon,158.99,Mass Extinction
+388,Trilobite,327.67,Natural Disaster
+389,Tyrannosaurus Rex,395.6,Predation
+390,Smilodon,309.61,Climate Change
+391,Quagga,146.78,Mass Extinction
+392,Woolly Mammoth,273.95,Mass Extinction
+393,Dodo,72.18,Mass Extinction
+394,Tyrannosaurus Rex,93.21,Natural Disaster
+395,Tyrannosaurus Rex,39.66,Mass Extinction
+396,Woolly Mammoth,123.23,Natural Disaster
+397,Steller���s S,363.17,Human Impact
+398,Dodo,426.96,Human Impact
+399,Quagga,207.93,Climate Change
+400,Tyrannosaurus Rex,87.61,Climate Change
+401,Smilodon,422.25,Asteroid Impact
+402,Dodo,92.9,Habitat Loss
+403,Smilodon,102.87,Asteroid Impact
+404,Plesiosaur,114.49,Habitat Loss
+405,Steller���s S,3.39,Human Impact
+406,Tyrannosaurus Rex,66.64,Predation
+407,Sabertooth Tiger,232.62,Predation
+408,Sabertooth Tiger,18.04,Predation
+409,Quagga,342.49,Natural Disaster
+410,Steller���s S,345.07,Mass Extinction
+411,Sabertooth Tiger,441.82,Asteroid Impact
+412,Trilobite,212.53,Habitat Loss
+413,Quagga,463.49,Human Impact
+414,Woolly Mammoth,204.73,Habitat Loss
+415,Dodo,271.02,Predation
+416,Steller���s S,432.13,Mass Extinction
+417,Tyrannosaurus Rex,236.42,Asteroid Impact
+418,Dodo,9.27,Human Impact
+419,Plesiosaur,96.09,Mass Extinction
+420,Sabertooth Tiger,399.03,Climate Change
+421,Tyrannosaurus Rex,291.06,Asteroid Impact
+422,Quagga,13.82,Asteroid Impact
+423,Tyrannosaurus Rex,428.29,Habitat Loss
+424,Sabertooth Tiger,142.21,Natural Disaster
+425,Steller���s S,15.67,Mass Extinction
+426,Smilodon,355.11,Habitat Loss
+427,Dodo,268.61,Habitat Loss
+428,Dodo,269.79,Habitat Loss
+429,Tyrannosaurus Rex,292.04,Asteroid Impact
+430,Woolly Mammoth,470.53,Predation
+431,Quagga,468.99,Human Impact
+432,Dodo,247.63,Human Impact
+433,Smilodon,182.78,Mass Extinction
+434,Plesiosaur,430.26,Natural Disaster
+435,Quagga,187.15,Asteroid Impact
+436,Plesiosaur,37.03,Predation
+437,Sabertooth Tiger,494.76,Predation
+438,Quagga,472.37,Asteroid Impact
+439,Smilodon,97.01,Habitat Loss
+440,Trilobite,158.8,Natural Disaster
+441,Megalodon,490.23,Human Impact
+442,Quagga,481.08,Mass Extinction
+443,Smilodon,476.97,Asteroid Impact
+444,Tyrannosaurus Rex,369.02,Natural Disaster
+445,Trilobite,87.4,Natural Disaster
+446,Tyrannosaurus Rex,144.57,Human Impact
+447,Steller���s S,396.84,Predation
+448,Megalodon,426.47,Asteroid Impact
+449,Dodo,425.9,Habitat Loss
+450,Woolly Mammoth,370.54,Natural Disaster
+451,Megalodon,46.51,Habitat Loss
+452,Megalodon,53.93,Climate Change
+453,Quagga,155.96,Climate Change
+454,Steller���s S,210.96,Predation
+455,Dodo,380.88,Natural Disaster
+456,Trilobite,332.4,Human Impact
+457,Sabertooth Tiger,328.29,Natural Disaster
+458,Dodo,499.38,Mass Extinction
+459,Woolly Mammoth,77.6,Human Impact
+460,Trilobite,494.47,Mass Extinction
+461,Woolly Mammoth,142.28,Mass Extinction
+462,Quagga,64.65,Climate Change
+463,Trilobite,138.51,Climate Change
+464,Steller���s S,370.08,Habitat Loss
+465,Tyrannosaurus Rex,199.43,Asteroid Impact
+466,Steller���s S,335.94,Predation
+467,Quagga,99.22,Climate Change
+468,Sabertooth Tiger,124.71,Predation
+469,Dodo,445.62,Predation
+470,Sabertooth Tiger,346.13,Asteroid Impact
+471,Megalodon,463.66,Natural Disaster
+472,Sabertooth Tiger,204.14,Human Impact
+473,Tyrannosaurus Rex,451.98,Natural Disaster
+474,Megalodon,418.65,Natural Disaster
+475,Steller���s S,361.28,Habitat Loss
+476,Megalodon,441.24,Habitat Loss
+477,Dodo,194.2,Human Impact
+478,Woolly Mammoth,26.26,Predation
+479,Quagga,160.38,Climate Change
+480,Tyrannosaurus Rex,16.02,Climate Change
+481,Sabertooth Tiger,286.82,Human Impact
+482,Dodo,411.13,Human Impact
+483,Woolly Mammoth,239.67,Predation
+484,Quagga,497.94,Asteroid Impact
+485,Sabertooth Tiger,106.54,Mass Extinction
+486,Trilobite,212.25,Mass Extinction
+487,Trilobite,263.57,Mass Extinction
+488,Smilodon,448.71,Climate Change
+489,Steller���s S,119.2,Habitat Loss
+490,Woolly Mammoth,318.53,Predation
+491,Trilobite,165.27,Natural Disaster
+492,Trilobite,139.54,Asteroid Impact
+493,Sabertooth Tiger,332.56,Natural Disaster
+494,Woolly Mammoth,24.83,Habitat Loss
+495,Sabertooth Tiger,269.8,Climate Change
+496,Sabertooth Tiger,428.74,Natural Disaster
+497,Quagga,368.24,Natural Disaster
+498,Steller���s S,148.31,Natural Disaster
+499,Megalodon,200.32,Human Impact
+500,Steller���s S,443.14,Climate Change
+501,Dodo,292.07,Mass Extinction
+502,Dodo,308.94,Asteroid Impact
+503,Woolly Mammoth,116.8,Predation
+504,Sabertooth Tiger,462.49,Climate Change
+505,Sabertooth Tiger,428.71,Climate Change
+506,Sabertooth Tiger,153.47,Predation
+507,Steller���s S,411.03,Asteroid Impact
+508,Sabertooth Tiger,416.12,Habitat Loss
+509,Sabertooth Tiger,499.24,Habitat Loss
+510,Megalodon,226.98,Natural Disaster
+511,Sabertooth Tiger,415.61,Natural Disaster
+512,Smilodon,380.13,Asteroid Impact
+513,Quagga,114.54,Asteroid Impact
+514,Tyrannosaurus Rex,154.14,Human Impact
+515,Steller���s S,137.45,Predation
+516,Smilodon,17.71,Predation
+517,Woolly Mammoth,322.35,Asteroid Impact
+518,Plesiosaur,63.6,Natural Disaster
+519,Megalodon,47.03,Habitat Loss
+520,Tyrannosaurus Rex,345.96,Human Impact
+521,Sabertooth Tiger,173.86,Climate Change
+522,Megalodon,54.14,Habitat Loss
+523,Trilobite,425.59,Predation
+524,Sabertooth Tiger,189.92,Climate Change
+525,Trilobite,447.27,Natural Disaster
+526,Trilobite,179.31,Mass Extinction
+527,Smilodon,348.79,Natural Disaster
+528,Megalodon,260.8,Human Impact
+529,Plesiosaur,489.5,Habitat Loss
+530,Steller���s S,336.64,Mass Extinction
+531,Smilodon,121.31,Climate Change
+532,Sabertooth Tiger,173.73,Climate Change
+533,Woolly Mammoth,187.34,Human Impact
+534,Plesiosaur,88.85,Habitat Loss
+535,Sabertooth Tiger,256.25,Climate Change
+536,Sabertooth Tiger,230.21,Human Impact
+537,Trilobite,353.21,Mass Extinction
+538,Tyrannosaurus Rex,492.6,Predation
+539,Smilodon,106.66,Natural Disaster
+540,Megalodon,107.92,Asteroid Impact
+541,Quagga,316.75,Human Impact
+542,Woolly Mammoth,40.11,Predation
+543,Steller���s S,204.79,Human Impact
+544,Tyrannosaurus Rex,292.28,Climate Change
+545,Smilodon,296.42,Predation
+546,Smilodon,257.29,Human Impact
+547,Tyrannosaurus Rex,392.46,Human Impact
+548,Smilodon,248.93,Asteroid Impact
+549,Dodo,178.43,Asteroid Impact
+550,Plesiosaur,328.69,Human Impact
+551,Tyrannosaurus Rex,96.61,Mass Extinction
+552,Tyrannosaurus Rex,155.27,Predation
+553,Quagga,29.26,Climate Change
+554,Quagga,476.63,Climate Change
+555,Plesiosaur,25.22,Human Impact
+556,Plesiosaur,285.17,Mass Extinction
+557,Trilobite,104.57,Habitat Loss
+558,Woolly Mammoth,137.92,Asteroid Impact
+559,Dodo,201.54,Human Impact
+560,Sabertooth Tiger,498.8,Mass Extinction
+561,Quagga,23.22,Asteroid Impact
+562,Dodo,389.62,Mass Extinction
+563,Smilodon,326.51,Habitat Loss
+564,Tyrannosaurus Rex,376.22,Natural Disaster
+565,Trilobite,289.65,Mass Extinction
+566,Megalodon,133.63,Human Impact
+567,Woolly Mammoth,265.41,Asteroid Impact
+568,Sabertooth Tiger,426.87,Mass Extinction
+569,Smilodon,87.41,Natural Disaster
+570,Sabertooth Tiger,15.37,Climate Change
+571,Quagga,130.78,Mass Extinction
+572,Woolly Mammoth,69.52,Human Impact
+573,Sabertooth Tiger,421.89,Habitat Loss
+574,Steller���s S,204.52,Asteroid Impact
+575,Megalodon,203.49,Mass Extinction
+576,Trilobite,372.07,Natural Disaster
+577,Trilobite,364.79,Human Impact
+578,Tyrannosaurus Rex,430.87,Predation
+579,Trilobite,198.87,Natural Disaster
+580,Plesiosaur,21.22,Asteroid Impact
+581,Tyrannosaurus Rex,156.38,Natural Disaster
+582,Smilodon,498.97,Habitat Loss
+583,Smilodon,35.33,Habitat Loss
+584,Quagga,440.85,Predation
+585,Quagga,463.05,Mass Extinction
+586,Steller���s S,341.45,Natural Disaster
+587,Megalodon,435.11,Mass Extinction
+588,Woolly Mammoth,179.38,Predation
+589,Woolly Mammoth,476.61,Mass Extinction
+590,Plesiosaur,433.54,Climate Change
+591,Plesiosaur,20.12,Habitat Loss
+592,Dodo,31.17,Predation
+593,Tyrannosaurus Rex,477.17,Mass Extinction
+594,Dodo,267.35,Human Impact
+595,Tyrannosaurus Rex,285.49,Habitat Loss
+596,Dodo,9.98,Habitat Loss
+597,Plesiosaur,303.82,Predation
+598,Woolly Mammoth,136.09,Asteroid Impact
+599,Woolly Mammoth,328.81,Mass Extinction
+600,Dodo,482.64,Mass Extinction
+601,Quagga,256.18,Climate Change
+602,Dodo,70.07,Climate Change
+603,Dodo,240.65,Habitat Loss
+604,Trilobite,315.25,Human Impact
+605,Plesiosaur,260.24,Climate Change
+606,Tyrannosaurus Rex,212.56,Predation
+607,Sabertooth Tiger,424.18,Mass Extinction
+608,Plesiosaur,461.24,Mass Extinction
+609,Sabertooth Tiger,307.68,Predation
+610,Smilodon,495.41,Asteroid Impact
+611,Dodo,465.93,Asteroid Impact
+612,Plesiosaur,428.6,Predation
+613,Tyrannosaurus Rex,169.56,Asteroid Impact
+614,Plesiosaur,489.21,Human Impact
+615,Sabertooth Tiger,177.36,Climate Change
+616,Tyrannosaurus Rex,465.34,Asteroid Impact
+617,Plesiosaur,494.13,Climate Change
+618,Sabertooth Tiger,286.57,Natural Disaster
+619,Dodo,426.87,Predation
+620,Sabertooth Tiger,88.56,Climate Change
+621,Megalodon,312.82,Habitat Loss
+622,Woolly Mammoth,71.59,Asteroid Impact
+623,Plesiosaur,120.6,Human Impact
+624,Sabertooth Tiger,8.91,Climate Change
+625,Sabertooth Tiger,462.86,Predation
+626,Steller���s S,210.27,Natural Disaster
+627,Tyrannosaurus Rex,464.47,Mass Extinction
+628,Dodo,229.33,Human Impact
+629,Steller���s S,324.39,Habitat Loss
+630,Dodo,150.17,Climate Change
+631,Smilodon,138.52,Asteroid Impact
+632,Quagga,406.21,Human Impact
+633,Plesiosaur,246.57,Mass Extinction
+634,Megalodon,2.94,Mass Extinction
+635,Megalodon,125.96,Natural Disaster
+636,Tyrannosaurus Rex,194.23,Predation
+637,Quagga,354.35,Asteroid Impact
+638,Trilobite,465.72,Climate Change
+639,Smilodon,187.95,Natural Disaster
+640,Trilobite,306.84,Habitat Loss
+641,Sabertooth Tiger,342.56,Mass Extinction
+642,Megalodon,310.09,Natural Disaster
+643,Steller���s S,43.2,Predation
+644,Dodo,418.35,Mass Extinction
+645,Smilodon,80.4,Natural Disaster
+646,Woolly Mammoth,205.37,Mass Extinction
+647,Dodo,390.46,Habitat Loss
+648,Plesiosaur,89.13,Mass Extinction
+649,Tyrannosaurus Rex,169.12,Mass Extinction
+650,Steller���s S,414.12,Habitat Loss
+651,Megalodon,404.66,Asteroid Impact
+652,Steller���s S,8.94,Human Impact
+653,Plesiosaur,15.95,Asteroid Impact
+654,Steller���s S,380.38,Mass Extinction
+655,Megalodon,248.2,Human Impact
+656,Tyrannosaurus Rex,27.8,Asteroid Impact
+657,Plesiosaur,22.43,Habitat Loss
+658,Trilobite,458.23,Natural Disaster
+659,Plesiosaur,84.74,Habitat Loss
+660,Woolly Mammoth,171.88,Human Impact
+661,Tyrannosaurus Rex,378.82,Climate Change
+662,Woolly Mammoth,294.94,Asteroid Impact
+663,Woolly Mammoth,294.5,Climate Change
+664,Smilodon,288.69,Habitat Loss
+665,Trilobite,242.46,Natural Disaster
+666,Quagga,63.41,Habitat Loss
+667,Quagga,238.99,Asteroid Impact
+668,Quagga,324.98,Habitat Loss
+669,Smilodon,244.05,Mass Extinction
+670,Trilobite,184,Natural Disaster
+671,Trilobite,121.12,Mass Extinction
+672,Dodo,47.92,Asteroid Impact
+673,Sabertooth Tiger,447.64,Habitat Loss
+674,Dodo,50.79,Natural Disaster
+675,Dodo,156.23,Asteroid Impact
+676,Trilobite,119.71,Habitat Loss
+677,Tyrannosaurus Rex,246.01,Mass Extinction
+678,Plesiosaur,439.96,Asteroid Impact
+679,Plesiosaur,361.55,Habitat Loss
+680,Trilobite,272.91,Human Impact
+681,Quagga,178.53,Mass Extinction
+682,Tyrannosaurus Rex,97.9,Predation
+683,Tyrannosaurus Rex,71.55,Human Impact
+684,Tyrannosaurus Rex,177.2,Mass Extinction
+685,Dodo,209.91,Predation
+686,Plesiosaur,13.87,Climate Change
+687,Woolly Mammoth,219.71,Climate Change
+688,Megalodon,497.62,Asteroid Impact
+689,Smilodon,127.01,Mass Extinction
+690,Plesiosaur,93.27,Asteroid Impact
+691,Dodo,282.79,Mass Extinction
+692,Trilobite,245.16,Asteroid Impact
+693,Sabertooth Tiger,91.68,Asteroid Impact
+694,Smilodon,202.46,Predation
+695,Steller���s S,134.37,Human Impact
+696,Smilodon,288.58,Human Impact
+697,Megalodon,375.78,Human Impact
+698,Sabertooth Tiger,434.46,Natural Disaster
+699,Plesiosaur,184.02,Natural Disaster
+700,Dodo,235.49,Human Impact
+701,Tyrannosaurus Rex,20.97,Human Impact
+702,Quagga,392.54,Predation
+703,Tyrannosaurus Rex,72.26,Mass Extinction
+704,Smilodon,313.85,Climate Change
+705,Woolly Mammoth,163.75,Climate Change
+706,Quagga,4.92,Habitat Loss
+707,Dodo,486.78,Human Impact
+708,Steller���s S,83.51,Predation
+709,Sabertooth Tiger,262.95,Habitat Loss
+710,Quagga,425.34,Natural Disaster
+711,Plesiosaur,382.07,Asteroid Impact
+712,Plesiosaur,311.28,Predation
+713,Tyrannosaurus Rex,491.9,Asteroid Impact
+714,Plesiosaur,245.5,Natural Disaster
+715,Smilodon,207.6,Mass Extinction
+716,Smilodon,317.05,Habitat Loss
+717,Plesiosaur,394.43,Mass Extinction
+718,Tyrannosaurus Rex,367.85,Habitat Loss
+719,Steller���s S,240.15,Climate Change
+720,Steller���s S,449.09,Asteroid Impact
+721,Steller���s S,469.9,Climate Change
+722,Trilobite,402.71,Climate Change
+723,Sabertooth Tiger,445.51,Climate Change
+724,Trilobite,390.7,Predation
+725,Megalodon,121.85,Mass Extinction
+726,Megalodon,109.99,Predation
+727,Smilodon,343.13,Mass Extinction
+728,Plesiosaur,149.69,Natural Disaster
+729,Steller���s S,60.79,Natural Disaster
+730,Steller���s S,480.56,Mass Extinction
+731,Smilodon,34.75,Climate Change
+732,Quagga,299.97,Natural Disaster
+733,Quagga,267.94,Asteroid Impact
+734,Steller���s S,256.21,Predation
+735,Sabertooth Tiger,269.4,Predation
+736,Sabertooth Tiger,318.38,Predation
+737,Megalodon,464.12,Mass Extinction
+738,Steller���s S,157.8,Habitat Loss
+739,Megalodon,127.14,Human Impact
+740,Sabertooth Tiger,451.46,Natural Disaster
+741,Steller���s S,172.97,Natural Disaster
+742,Tyrannosaurus Rex,291.38,Natural Disaster
+743,Trilobite,5.47,Habitat Loss
+744,Megalodon,378.99,Asteroid Impact
+745,Tyrannosaurus Rex,481.27,Asteroid Impact
+746,Smilodon,179.13,Mass Extinction
+747,Quagga,418.32,Mass Extinction
+748,Quagga,157.49,Asteroid Impact
+749,Megalodon,407.83,Habitat Loss
+750,Woolly Mammoth,316.04,Asteroid Impact
+751,Woolly Mammoth,222.62,Mass Extinction
+752,Smilodon,479.98,Natural Disaster
+753,Megalodon,359.06,Asteroid Impact
+754,Plesiosaur,49.84,Asteroid Impact
+755,Smilodon,400.57,Mass Extinction
+756,Woolly Mammoth,313.91,Mass Extinction
+757,Quagga,451.93,Natural Disaster
+758,Plesiosaur,121.19,Predation
+759,Plesiosaur,98.28,Habitat Loss
+760,Woolly Mammoth,252.73,Climate Change
+761,Trilobite,273.42,Natural Disaster
+762,Tyrannosaurus Rex,474.47,Mass Extinction
+763,Trilobite,242.96,Climate Change
+764,Sabertooth Tiger,322.78,Natural Disaster
+765,Tyrannosaurus Rex,52.27,Habitat Loss
+766,Trilobite,428.9,Mass Extinction
+767,Megalodon,250.25,Asteroid Impact
+768,Dodo,47.26,Habitat Loss
+769,Tyrannosaurus Rex,249.2,Predation
+770,Smilodon,346.22,Asteroid Impact
+771,Smilodon,462.29,Predation
+772,Sabertooth Tiger,115.08,Mass Extinction
+773,Tyrannosaurus Rex,176.87,Natural Disaster
+774,Sabertooth Tiger,331.27,Climate Change
+775,Tyrannosaurus Rex,389.39,Mass Extinction
+776,Steller���s S,127.72,Natural Disaster
+777,Steller���s S,73.32,Mass Extinction
+778,Steller���s S,352.42,Mass Extinction
+779,Steller���s S,128.69,Habitat Loss
+780,Trilobite,23.36,Natural Disaster
+781,Steller���s S,100.57,Predation
+782,Megalodon,124.61,Habitat Loss
+783,Smilodon,120.43,Natural Disaster
+784,Tyrannosaurus Rex,26.55,Habitat Loss
+785,Plesiosaur,38.15,Predation
+786,Smilodon,122.77,Human Impact
+787,Woolly Mammoth,73.99,Habitat Loss
+788,Trilobite,479.68,Mass Extinction
+789,Sabertooth Tiger,250.83,Human Impact
+790,Woolly Mammoth,468.96,Natural Disaster
+791,Woolly Mammoth,221.16,Human Impact
+792,Sabertooth Tiger,216.91,Predation
+793,Trilobite,279.01,Habitat Loss
+794,Sabertooth Tiger,269.14,Mass Extinction
+795,Tyrannosaurus Rex,496.9,Predation
+796,Dodo,317.88,Natural Disaster
+797,Smilodon,251.87,Mass Extinction
+798,Woolly Mammoth,77.15,Climate Change
+799,Sabertooth Tiger,487.21,Habitat Loss
+800,Sabertooth Tiger,327.55,Predation
+801,Smilodon,268.35,Climate Change
+802,Megalodon,260.86,Mass Extinction
+803,Plesiosaur,355.16,Human Impact
+804,Sabertooth Tiger,462.47,Human Impact
+805,Quagga,432.21,Predation
+806,Megalodon,44.82,Climate Change
+807,Tyrannosaurus Rex,273.56,Natural Disaster
+808,Smilodon,392.71,Asteroid Impact
+809,Trilobite,414.84,Asteroid Impact
+810,Woolly Mammoth,158.88,Mass Extinction
+811,Megalodon,312.04,Climate Change
+812,Plesiosaur,468.25,Human Impact
+813,Plesiosaur,494.63,Mass Extinction
+814,Sabertooth Tiger,354.01,Predation
+815,Megalodon,108.4,Asteroid Impact
+816,Plesiosaur,154.53,Mass Extinction
+817,Smilodon,467.19,Asteroid Impact
+818,Trilobite,327.45,Natural Disaster
+819,Plesiosaur,225.73,Predation
+820,Trilobite,316.45,Climate Change
+821,Woolly Mammoth,188.39,Predation
+822,Steller���s S,425.6,Asteroid Impact
+823,Woolly Mammoth,142.53,Asteroid Impact
+824,Tyrannosaurus Rex,184.94,Predation
+825,Dodo,91.13,Climate Change
+826,Trilobite,474.75,Human Impact
+827,Woolly Mammoth,252.97,Predation
+828,Quagga,346.27,Habitat Loss
+829,Woolly Mammoth,293.65,Predation
+830,Sabertooth Tiger,155.46,Habitat Loss
+831,Dodo,13.79,Climate Change
+832,Plesiosaur,140.48,Asteroid Impact
+833,Smilodon,341.67,Climate Change
+834,Quagga,289.32,Predation
+835,Sabertooth Tiger,345.2,Climate Change
+836,Plesiosaur,449.42,Climate Change
+837,Tyrannosaurus Rex,493.63,Natural Disaster
+838,Sabertooth Tiger,194.96,Natural Disaster
+839,Woolly Mammoth,131.33,Predation
+840,Dodo,335.26,Asteroid Impact
+841,Steller���s S,231.16,Habitat Loss
+842,Smilodon,295.43,Predation
+843,Trilobite,120.54,Climate Change
+844,Dodo,268.99,Predation
+845,Woolly Mammoth,9.78,Habitat Loss
+846,Steller���s S,434.97,Natural Disaster
+847,Steller���s S,295.14,Climate Change
+848,Trilobite,262.48,Natural Disaster
+849,Quagga,372.22,Predation
+850,Woolly Mammoth,199.99,Mass Extinction
+851,Steller���s S,262.07,Habitat Loss
+852,Plesiosaur,165.43,Habitat Loss
+853,Woolly Mammoth,141.93,Climate Change
+854,Plesiosaur,241.56,Human Impact
+855,Plesiosaur,138.84,Mass Extinction
+856,Smilodon,486.35,Human Impact
+857,Smilodon,7.1,Predation
+858,Dodo,102.3,Mass Extinction
+859,Sabertooth Tiger,362.15,Asteroid Impact
+860,Tyrannosaurus Rex,333.96,Natural Disaster
+861,Tyrannosaurus Rex,169.69,Habitat Loss
+862,Woolly Mammoth,35.05,Predation
+863,Megalodon,240.74,Habitat Loss
+864,Trilobite,175.66,Human Impact
+865,Sabertooth Tiger,441.77,Human Impact
+866,Dodo,130.26,Mass Extinction
+867,Plesiosaur,153.83,Human Impact
+868,Sabertooth Tiger,455.23,Natural Disaster
+869,Woolly Mammoth,159.92,Natural Disaster
+870,Steller���s S,132.38,Habitat Loss
+871,Steller���s S,175.86,Mass Extinction
+872,Sabertooth Tiger,378.77,Natural Disaster
+873,Plesiosaur,278.97,Climate Change
+874,Quagga,357.14,Natural Disaster
+875,Quagga,175.65,Natural Disaster
+876,Woolly Mammoth,310.35,Mass Extinction
+877,Megalodon,99.74,Asteroid Impact
+878,Steller���s S,1.7,Human Impact
+879,Trilobite,156.93,Natural Disaster
+880,Trilobite,410.3,Mass Extinction
+881,Smilodon,140.56,Mass Extinction
+882,Megalodon,378.66,Predation
+883,Dodo,118.99,Climate Change
+884,Smilodon,456.42,Asteroid Impact
+885,Dodo,455.42,Mass Extinction
+886,Smilodon,215.92,Asteroid Impact
+887,Steller���s S,377.87,Climate Change
+888,Sabertooth Tiger,367.66,Habitat Loss
+889,Steller���s S,39.9,Mass Extinction
+890,Sabertooth Tiger,368.07,Mass Extinction
+891,Dodo,242.53,Asteroid Impact
+892,Dodo,93.6,Predation
+893,Dodo,216.49,Habitat Loss
+894,Smilodon,461.47,Natural Disaster
+895,Tyrannosaurus Rex,58.17,Habitat Loss
+896,Woolly Mammoth,84.92,Habitat Loss
+897,Woolly Mammoth,168.06,Natural Disaster
+898,Tyrannosaurus Rex,362.13,Natural Disaster
+899,Trilobite,174.64,Predation
+900,Quagga,285,Predation
+901,Steller���s S,251.29,Climate Change
+902,Smilodon,55.64,Predation
+903,Dodo,418.96,Human Impact
+904,Trilobite,484.88,Natural Disaster
+905,Plesiosaur,143.15,Climate Change
+906,Megalodon,91.58,Habitat Loss
+907,Trilobite,288.29,Mass Extinction
+908,Dodo,354.16,Human Impact
+909,Sabertooth Tiger,139.25,Natural Disaster
+910,Smilodon,135.48,Mass Extinction
+911,Dodo,305.31,Asteroid Impact
+912,Dodo,324.71,Natural Disaster
+913,Dodo,58.2,Mass Extinction
+914,Plesiosaur,396.94,Mass Extinction
+915,Smilodon,149.86,Climate Change
+916,Steller���s S,10.7,Climate Change
+917,Smilodon,211.28,Natural Disaster
+918,Dodo,413.77,Climate Change
+919,Megalodon,186.61,Predation
+920,Dodo,417.58,Predation
+921,Quagga,354.78,Predation
+922,Plesiosaur,313.22,Natural Disaster
+923,Trilobite,69.42,Predation
+924,Sabertooth Tiger,242.22,Climate Change
+925,Steller���s S,67.51,Human Impact
+926,Plesiosaur,416.06,Human Impact
+927,Smilodon,401.89,Climate Change
+928,Steller���s S,403.62,Climate Change
+929,Dodo,80.88,Mass Extinction
+930,Plesiosaur,236.13,Predation
+931,Tyrannosaurus Rex,352.61,Asteroid Impact
+932,Plesiosaur,329.39,Climate Change
+933,Trilobite,391.82,Climate Change
+934,Dodo,229.74,Asteroid Impact
+935,Woolly Mammoth,317.71,Asteroid Impact
+936,Plesiosaur,404.65,Human Impact
+937,Woolly Mammoth,199.47,Climate Change
+938,Plesiosaur,327.44,Natural Disaster
+939,Megalodon,420.55,Predation
+940,Tyrannosaurus Rex,416.52,Climate Change
+941,Woolly Mammoth,417.13,Asteroid Impact
+942,Plesiosaur,261.24,Asteroid Impact
+943,Dodo,206.61,Climate Change
+944,Quagga,464.84,Natural Disaster
+945,Woolly Mammoth,141.7,Predation
+946,Trilobite,116.45,Asteroid Impact
+947,Sabertooth Tiger,350.43,Human Impact
+948,Sabertooth Tiger,138.1,Human Impact
+949,Sabertooth Tiger,108.89,Natural Disaster
+950,Quagga,175.75,Mass Extinction
+951,Woolly Mammoth,92.6,Mass Extinction
+952,Quagga,67.8,Mass Extinction
+953,Dodo,200.92,Mass Extinction
+954,Steller���s S,34.94,Asteroid Impact
+955,Quagga,43.23,Asteroid Impact
+956,Quagga,16.66,Natural Disaster
+957,Tyrannosaurus Rex,458.85,Natural Disaster
+958,Sabertooth Tiger,312.6,Asteroid Impact
+959,Quagga,421.62,Human Impact
+960,Tyrannosaurus Rex,41.88,Predation
+961,Megalodon,288.71,Predation
+962,Woolly Mammoth,392.77,Natural Disaster
+963,Plesiosaur,383.06,Asteroid Impact
+964,Sabertooth Tiger,291.55,Mass Extinction
+965,Quagga,354.15,Predation
+966,Woolly Mammoth,288.19,Predation
+967,Trilobite,118.42,Asteroid Impact
+968,Tyrannosaurus Rex,466.6,Predation
+969,Sabertooth Tiger,17.42,Natural Disaster
+970,Steller���s S,274.71,Climate Change
+971,Quagga,486.1,Asteroid Impact
+972,Trilobite,62.96,Mass Extinction
+973,Woolly Mammoth,373.12,Mass Extinction
+974,Dodo,33.57,Asteroid Impact
+975,Tyrannosaurus Rex,340.81,Natural Disaster
+976,Trilobite,22.65,Human Impact
+977,Trilobite,260.93,Human Impact
+978,Woolly Mammoth,416.09,Human Impact
+979,Dodo,493.26,Predation
+980,Smilodon,318.6,Climate Change
+981,Woolly Mammoth,375.32,Asteroid Impact
+982,Steller���s S,183.56,Climate Change
+983,Quagga,405.41,Asteroid Impact
+984,Quagga,63.21,Mass Extinction
+985,Steller���s S,241.73,Mass Extinction
+986,Dodo,145.58,Mass Extinction
+987,Megalodon,264.52,Asteroid Impact
+988,Steller���s S,314.09,Human Impact
+989,Tyrannosaurus Rex,74.11,Human Impact
+990,Sabertooth Tiger,45.39,Habitat Loss
+991,Trilobite,203.05,Asteroid Impact
+992,Trilobite,94.82,Mass Extinction
+993,Megalodon,469.15,Predation
+994,Steller���s S,437.86,Predation
+995,Trilobite,111.83,Habitat Loss
+996,Tyrannosaurus Rex,461.44,Natural Disaster
+997,Steller���s S,491.56,Human Impact
+998,Dodo,386.65,Mass Extinction
+999,Sabertooth Tiger,310.55,Climate Change
+1000,Dodo,418.5,Human Impact
+1001,Plesiosaur,479.47,Human Impact
+1002,Tyrannosaurus Rex,244.36,Natural Disaster
+1003,Trilobite,423.57,Mass Extinction
+1004,Smilodon,180.96,Human Impact
+1005,Megalodon,88.92,Predation
+1006,Steller���s S,31.85,Mass Extinction
+1007,Woolly Mammoth,173.2,Habitat Loss
+1008,Woolly Mammoth,344.14,Climate Change
+1009,Woolly Mammoth,459.02,Mass Extinction
+1010,Smilodon,128.16,Predation
+1011,Steller���s S,343.48,Climate Change
+1012,Trilobite,19.31,Habitat Loss
+1013,Tyrannosaurus Rex,308.21,Habitat Loss
+1014,Tyrannosaurus Rex,190.53,Predation
+1015,Smilodon,187,Asteroid Impact
+1016,Megalodon,247.54,Habitat Loss
+1017,Plesiosaur,345.75,Asteroid Impact
+1018,Sabertooth Tiger,427.11,Human Impact
+1019,Sabertooth Tiger,211.02,Predation
+1020,Woolly Mammoth,181.44,Asteroid Impact
+1021,Quagga,177.15,Climate Change
+1022,Sabertooth Tiger,232.85,Habitat Loss
+1023,Quagga,10.45,Human Impact
+1024,Woolly Mammoth,285.02,Asteroid Impact
+1025,Plesiosaur,327.12,Mass Extinction
+1026,Sabertooth Tiger,133.25,Habitat Loss
+1027,Sabertooth Tiger,333.88,Natural Disaster
+1028,Tyrannosaurus Rex,485.51,Human Impact
+1029,Trilobite,321.55,Asteroid Impact
+1030,Trilobite,428.69,Predation
+1031,Dodo,78.75,Mass Extinction
+1032,Dodo,325.86,Mass Extinction
+1033,Trilobite,444.68,Natural Disaster
+1034,Tyrannosaurus Rex,374.84,Habitat Loss
+1035,Steller���s S,63.9,Habitat Loss
+1036,Smilodon,257.25,Natural Disaster
+1037,Quagga,460.18,Mass Extinction
+1038,Plesiosaur,67.84,Natural Disaster
+1039,Trilobite,474.14,Predation
+1040,Tyrannosaurus Rex,482.88,Mass Extinction
+1041,Steller���s S,265.32,Natural Disaster
+1042,Trilobite,143.89,Climate Change
+1043,Smilodon,301.87,Natural Disaster
+1044,Steller���s S,57.27,Mass Extinction
+1045,Dodo,431.43,Natural Disaster
+1046,Smilodon,262.64,Predation
+1047,Dodo,226.71,Climate Change
+1048,Dodo,372.22,Habitat Loss
+1049,Sabertooth Tiger,387.47,Natural Disaster
+1050,Plesiosaur,385.38,Human Impact
+1051,Plesiosaur,262.31,Natural Disaster
+1052,Woolly Mammoth,10.6,Habitat Loss
+1053,Steller���s S,183.33,Predation
+1054,Quagga,82.2,Natural Disaster
+1055,Dodo,294.11,Habitat Loss
+1056,Steller���s S,485.75,Habitat Loss
+1057,Sabertooth Tiger,182.58,Predation
+1058,Dodo,314.88,Habitat Loss
+1059,Woolly Mammoth,59.48,Asteroid Impact
+1060,Steller���s S,455.32,Mass Extinction
+1061,Trilobite,495.82,Climate Change
+1062,Sabertooth Tiger,232.88,Habitat Loss
+1063,Steller���s S,187.88,Mass Extinction
+1064,Plesiosaur,454.33,Asteroid Impact
+1065,Sabertooth Tiger,413.47,Human Impact
+1066,Sabertooth Tiger,194.34,Asteroid Impact
+1067,Quagga,313.74,Asteroid Impact
+1068,Dodo,11,Human Impact
+1069,Tyrannosaurus Rex,280.72,Mass Extinction
+1070,Quagga,410.35,Climate Change
+1071,Smilodon,244.44,Human Impact
+1072,Dodo,405.35,Natural Disaster
+1073,Woolly Mammoth,31.09,Predation
+1074,Plesiosaur,470.47,Predation
+1075,Plesiosaur,448.72,Predation
+1076,Trilobite,260.82,Natural Disaster
+1077,Woolly Mammoth,202.23,Mass Extinction
+1078,Woolly Mammoth,219.7,Natural Disaster
+1079,Steller���s S,385.02,Climate Change
+1080,Quagga,320.22,Asteroid Impact
+1081,Smilodon,431.68,Asteroid Impact
+1082,Tyrannosaurus Rex,278.05,Climate Change
+1083,Quagga,224.45,Human Impact
+1084,Sabertooth Tiger,362.09,Natural Disaster
+1085,Tyrannosaurus Rex,16.69,Habitat Loss
+1086,Steller���s S,444.47,Asteroid Impact
+1087,Sabertooth Tiger,336.48,Climate Change
+1088,Megalodon,10.93,Mass Extinction
+1089,Megalodon,148.18,Climate Change
+1090,Megalodon,50.36,Habitat Loss
+1091,Tyrannosaurus Rex,290.78,Asteroid Impact
+1092,Steller���s S,86.01,Habitat Loss
+1093,Plesiosaur,478.93,Habitat Loss
+1094,Sabertooth Tiger,366.36,Predation
+1095,Plesiosaur,348.47,Asteroid Impact
+1096,Dodo,25.81,Predation
+1097,Woolly Mammoth,373,Habitat Loss
+1098,Plesiosaur,488.29,Natural Disaster
+1099,Tyrannosaurus Rex,478.94,Asteroid Impact
+1100,Sabertooth Tiger,301.59,Human Impact
+1101,Tyrannosaurus Rex,401.52,Habitat Loss
+1102,Megalodon,214.47,Climate Change
+1103,Smilodon,193.87,Predation
+1104,Dodo,393.35,Natural Disaster
+1105,Steller���s S,476.36,Natural Disaster
+1106,Plesiosaur,434.55,Habitat Loss
+1107,Woolly Mammoth,452.82,Mass Extinction
+1108,Quagga,459.04,Asteroid Impact
+1109,Tyrannosaurus Rex,168.72,Asteroid Impact
+1110,Quagga,121.95,Predation
+1111,Trilobite,87.23,Human Impact
+1112,Megalodon,313.91,Predation
+1113,Smilodon,399.38,Asteroid Impact
+1114,Woolly Mammoth,57.77,Predation
+1115,Megalodon,70.25,Natural Disaster
+1116,Sabertooth Tiger,87.8,Predation
+1117,Steller���s S,37.3,Human Impact
+1118,Trilobite,185.3,Human Impact
+1119,Tyrannosaurus Rex,239.06,Mass Extinction
+1120,Woolly Mammoth,358.88,Predation
+1121,Dodo,89.49,Predation
+1122,Megalodon,460.77,Asteroid Impact
+1123,Trilobite,85.15,Habitat Loss
+1124,Smilodon,141.17,Asteroid Impact
+1125,Steller���s S,352.86,Climate Change
+1126,Trilobite,299.3,Habitat Loss
+1127,Sabertooth Tiger,320.99,Habitat Loss
+1128,Sabertooth Tiger,272.28,Human Impact
+1129,Megalodon,255.18,Habitat Loss
+1130,Tyrannosaurus Rex,281.19,Asteroid Impact
+1131,Dodo,370.96,Human Impact
+1132,Tyrannosaurus Rex,498.13,Predation
+1133,Sabertooth Tiger,171.57,Climate Change
+1134,Dodo,383.8,Human Impact
+1135,Trilobite,306.97,Mass Extinction
+1136,Sabertooth Tiger,158.36,Asteroid Impact
+1137,Tyrannosaurus Rex,383.21,Mass Extinction
+1138,Quagga,43.89,Climate Change
+1139,Smilodon,269.49,Predation
+1140,Smilodon,235.95,Natural Disaster
+1141,Quagga,91.36,Human Impact
+1142,Dodo,237.67,Habitat Loss
+1143,Dodo,321.1,Mass Extinction
+1144,Woolly Mammoth,324.42,Climate Change
+1145,Tyrannosaurus Rex,224.89,Habitat Loss
+1146,Trilobite,327.12,Human Impact
+1147,Megalodon,385.84,Habitat Loss
+1148,Dodo,78.33,Asteroid Impact
+1149,Steller���s S,388.85,Habitat Loss
+1150,Megalodon,193.9,Habitat Loss
+1151,Megalodon,335.12,Natural Disaster
+1152,Smilodon,216.64,Predation
+1153,Quagga,129.93,Asteroid Impact
+1154,Smilodon,70.68,Habitat Loss
+1155,Smilodon,473.09,Mass Extinction
+1156,Plesiosaur,332.14,Predation
+1157,Plesiosaur,421.2,Climate Change
+1158,Quagga,242.15,Predation
+1159,Smilodon,123.38,Climate Change
+1160,Tyrannosaurus Rex,357.49,Mass Extinction
+1161,Tyrannosaurus Rex,469.76,Mass Extinction
+1162,Woolly Mammoth,127.54,Climate Change
+1163,Steller���s S,42.76,Asteroid Impact
+1164,Woolly Mammoth,477.58,Natural Disaster
+1165,Quagga,70.21,Asteroid Impact
+1166,Quagga,102.79,Asteroid Impact
+1167,Quagga,377.76,Climate Change
+1168,Steller���s S,442.21,Predation
+1169,Dodo,84.45,Mass Extinction
+1170,Smilodon,359.28,Climate Change
+1171,Woolly Mammoth,251.74,Climate Change
+1172,Quagga,370.14,Climate Change
+1173,Plesiosaur,145.29,Natural Disaster
+1174,Dodo,347.24,Mass Extinction
+1175,Trilobite,128.26,Human Impact
+1176,Plesiosaur,175.64,Habitat Loss
+1177,Sabertooth Tiger,99.68,Human Impact
+1178,Megalodon,481.78,Habitat Loss
+1179,Megalodon,225.8,Natural Disaster
+1180,Smilodon,225.36,Human Impact
+1181,Steller���s S,48.35,Human Impact
+1182,Woolly Mammoth,255.79,Habitat Loss
+1183,Trilobite,437.47,Human Impact
+1184,Quagga,478.3,Habitat Loss
+1185,Smilodon,349.86,Natural Disaster
+1186,Steller���s S,264.44,Climate Change
+1187,Tyrannosaurus Rex,188.55,Mass Extinction
+1188,Tyrannosaurus Rex,316.66,Mass Extinction
+1189,Woolly Mammoth,245.74,Climate Change
+1190,Steller���s S,82.62,Asteroid Impact
+1191,Dodo,368.37,Human Impact
+1192,Quagga,10.66,Predation
+1193,Quagga,137.13,Human Impact
+1194,Plesiosaur,439.48,Mass Extinction
+1195,Sabertooth Tiger,176.69,Asteroid Impact
+1196,Steller���s S,189.26,Habitat Loss
+1197,Plesiosaur,169.6,Habitat Loss
+1198,Woolly Mammoth,466.3,Natural Disaster
+1199,Smilodon,77.6,Natural Disaster
+1200,Quagga,391.97,Predation
+1201,Sabertooth Tiger,401.77,Habitat Loss
+1202,Plesiosaur,128.34,Asteroid Impact
+1203,Sabertooth Tiger,167.22,Human Impact
+1204,Trilobite,337.35,Natural Disaster
+1205,Sabertooth Tiger,128.26,Mass Extinction
+1206,Tyrannosaurus Rex,417.87,Habitat Loss
+1207,Dodo,330.33,Natural Disaster
+1208,Plesiosaur,227.4,Mass Extinction
+1209,Trilobite,31.41,Climate Change
+1210,Woolly Mammoth,207.02,Mass Extinction
+1211,Trilobite,364.58,Asteroid Impact
+1212,Quagga,433.37,Human Impact
+1213,Sabertooth Tiger,306.59,Natural Disaster
+1214,Plesiosaur,488.04,Mass Extinction
+1215,Plesiosaur,492.08,Human Impact
+1216,Smilodon,24.98,Human Impact
+1217,Smilodon,218.12,Asteroid Impact
+1218,Tyrannosaurus Rex,468.06,Climate Change
+1219,Plesiosaur,249.52,Habitat Loss
+1220,Steller���s S,110.79,Human Impact
+1221,Quagga,323.63,Habitat Loss
+1222,Dodo,156.2,Asteroid Impact
+1223,Trilobite,308.61,Predation
+1224,Quagga,128.65,Climate Change
+1225,Sabertooth Tiger,429.13,Asteroid Impact
+1226,Dodo,153.78,Predation
+1227,Megalodon,437.5,Human Impact
+1228,Sabertooth Tiger,342.59,Human Impact
+1229,Plesiosaur,312.62,Asteroid Impact
+1230,Dodo,367.69,Human Impact
+1231,Steller���s S,472.41,Climate Change
+1232,Sabertooth Tiger,339.27,Predation
+1233,Tyrannosaurus Rex,365.87,Habitat Loss
+1234,Quagga,326.75,Climate Change
+1235,Smilodon,302.17,Human Impact
+1236,Quagga,208.51,Human Impact
+1237,Quagga,2.65,Asteroid Impact
+1238,Dodo,79.52,Asteroid Impact
+1239,Plesiosaur,466.1,Natural Disaster
+1240,Trilobite,396.21,Asteroid Impact
+1241,Smilodon,265.93,Predation
+1242,Quagga,369.31,Habitat Loss
+1243,Quagga,106.25,Habitat Loss
+1244,Steller���s S,417.14,Habitat Loss
+1245,Steller���s S,23.49,Climate Change
+1246,Quagga,154.02,Habitat Loss
+1247,Steller���s S,133.34,Climate Change
+1248,Sabertooth Tiger,219.42,Predation
+1249,Tyrannosaurus Rex,495.23,Asteroid Impact
+1250,Dodo,481.97,Mass Extinction
+1251,Sabertooth Tiger,435.25,Habitat Loss
+1252,Steller���s S,240.63,Human Impact
+1253,Quagga,37,Human Impact
+1254,Tyrannosaurus Rex,451.61,Climate Change
+1255,Dodo,17.12,Predation
+1256,Steller���s S,7.11,Habitat Loss
+1257,Trilobite,449.25,Predation
+1258,Tyrannosaurus Rex,305.24,Mass Extinction
+1259,Steller���s S,91.9,Natural Disaster
+1260,Megalodon,138.34,Human Impact
+1261,Tyrannosaurus Rex,240.75,Mass Extinction
+1262,Steller���s S,329.4,Mass Extinction
+1263,Trilobite,393.56,Human Impact
+1264,Trilobite,57.7,Asteroid Impact
+1265,Plesiosaur,109.49,Human Impact
+1266,Sabertooth Tiger,259.03,Predation
+1267,Plesiosaur,433.42,Asteroid Impact
+1268,Quagga,373.04,Predation
+1269,Tyrannosaurus Rex,401.73,Human Impact
+1270,Megalodon,270.89,Human Impact
+1271,Megalodon,300.14,Asteroid Impact
+1272,Smilodon,315.11,Habitat Loss
+1273,Woolly Mammoth,82.64,Predation
+1274,Dodo,295.69,Asteroid Impact
+1275,Steller���s S,445.38,Natural Disaster
+1276,Trilobite,286.71,Predation
+1277,Sabertooth Tiger,67.95,Natural Disaster
+1278,Smilodon,464.53,Human Impact
+1279,Woolly Mammoth,130.27,Asteroid Impact
+1280,Woolly Mammoth,399.6,Natural Disaster
+1281,Megalodon,445.5,Natural Disaster
+1282,Megalodon,31.84,Habitat Loss
+1283,Steller���s S,438.11,Habitat Loss
+1284,Tyrannosaurus Rex,410.13,Habitat Loss
+1285,Quagga,142.67,Human Impact
+1286,Tyrannosaurus Rex,390.14,Climate Change
+1287,Smilodon,489.1,Habitat Loss
+1288,Woolly Mammoth,41.63,Predation
+1289,Woolly Mammoth,422.29,Natural Disaster
+1290,Woolly Mammoth,432.4,Mass Extinction
+1291,Woolly Mammoth,197.48,Human Impact
+1292,Sabertooth Tiger,42.42,Habitat Loss
+1293,Plesiosaur,172.96,Predation
+1294,Megalodon,380.88,Natural Disaster
+1295,Plesiosaur,109.42,Predation
+1296,Quagga,28.43,Predation
+1297,Tyrannosaurus Rex,184.71,Habitat Loss
+1298,Trilobite,472.61,Habitat Loss
+1299,Dodo,307.94,Asteroid Impact
+1300,Dodo,340.16,Climate Change
+1301,Dodo,92.13,Predation
+1302,Plesiosaur,83.22,Natural Disaster
+1303,Plesiosaur,224.57,Natural Disaster
+1304,Trilobite,30.2,Habitat Loss
+1305,Woolly Mammoth,464.35,Climate Change
+1306,Megalodon,478.53,Asteroid Impact
+1307,Quagga,7.32,Human Impact
+1308,Trilobite,499.57,Human Impact
+1309,Megalodon,152.24,Asteroid Impact
+1310,Trilobite,397.59,Mass Extinction
+1311,Plesiosaur,276.25,Human Impact
+1312,Tyrannosaurus Rex,31.37,Asteroid Impact
+1313,Smilodon,351.68,Mass Extinction
+1314,Megalodon,140.23,Human Impact
+1315,Steller���s S,421.89,Predation
+1316,Quagga,440.38,Mass Extinction
+1317,Woolly Mammoth,421.72,Mass Extinction
+1318,Trilobite,258.7,Predation
+1319,Woolly Mammoth,267.84,Natural Disaster
+1320,Woolly Mammoth,235.88,Asteroid Impact
+1321,Megalodon,282.8,Human Impact
+1322,Smilodon,110.54,Habitat Loss
+1323,Sabertooth Tiger,19.9,Habitat Loss
+1324,Quagga,360.86,Asteroid Impact
+1325,Sabertooth Tiger,444.83,Predation
+1326,Steller���s S,355.97,Predation
+1327,Tyrannosaurus Rex,292.95,Habitat Loss
+1328,Quagga,72.11,Natural Disaster
+1329,Sabertooth Tiger,159.47,Habitat Loss
+1330,Dodo,42.06,Human Impact
+1331,Smilodon,43.97,Asteroid Impact
+1332,Quagga,313.14,Predation
+1333,Megalodon,329.16,Natural Disaster
+1334,Megalodon,117.3,Asteroid Impact
+1335,Plesiosaur,177.44,Natural Disaster
+1336,Plesiosaur,477.62,Predation
+1337,Woolly Mammoth,357.57,Predation
+1338,Steller���s S,445.03,Asteroid Impact
+1339,Quagga,455.56,Predation
+1340,Trilobite,212.57,Climate Change
+1341,Dodo,53.93,Predation
+1342,Woolly Mammoth,191.47,Asteroid Impact
+1343,Woolly Mammoth,168.04,Human Impact
+1344,Quagga,13.27,Natural Disaster
+1345,Plesiosaur,282.51,Natural Disaster
+1346,Woolly Mammoth,376.36,Human Impact
+1347,Plesiosaur,364.08,Mass Extinction
+1348,Plesiosaur,406.81,Predation
+1349,Steller���s S,213.86,Predation
+1350,Woolly Mammoth,392.24,Habitat Loss
+1351,Quagga,461.29,Natural Disaster
+1352,Smilodon,221.73,Natural Disaster
+1353,Dodo,15.81,Human Impact
+1354,Dodo,190.79,Climate Change
+1355,Dodo,299.29,Climate Change
+1356,Woolly Mammoth,362.55,Predation
+1357,Smilodon,151.55,Natural Disaster
+1358,Smilodon,238.53,Human Impact
+1359,Trilobite,17.76,Habitat Loss
+1360,Plesiosaur,442.59,Human Impact
+1361,Steller���s S,124.42,Natural Disaster
+1362,Plesiosaur,376.05,Mass Extinction
+1363,Dodo,480.54,Natural Disaster
+1364,Megalodon,459.32,Asteroid Impact
+1365,Steller���s S,275.91,Asteroid Impact
+1366,Woolly Mammoth,183.68,Predation
+1367,Smilodon,396.38,Human Impact
+1368,Woolly Mammoth,267.6,Mass Extinction
+1369,Dodo,487.66,Climate Change
+1370,Plesiosaur,396.01,Climate Change
+1371,Woolly Mammoth,83.5,Human Impact
+1372,Quagga,231.65,Climate Change
+1373,Trilobite,192.49,Mass Extinction
+1374,Trilobite,315.17,Habitat Loss
+1375,Tyrannosaurus Rex,163.32,Climate Change
+1376,Woolly Mammoth,231.05,Mass Extinction
+1377,Trilobite,471.73,Habitat Loss
+1378,Megalodon,446.67,Climate Change
+1379,Tyrannosaurus Rex,116.55,Natural Disaster
+1380,Smilodon,127.55,Predation
+1381,Megalodon,287.41,Habitat Loss
+1382,Trilobite,11.19,Climate Change
+1383,Smilodon,403.67,Asteroid Impact
+1384,Tyrannosaurus Rex,87.14,Asteroid Impact
+1385,Sabertooth Tiger,382.28,Predation
+1386,Smilodon,405.6,Natural Disaster
+1387,Tyrannosaurus Rex,33.99,Natural Disaster
+1388,Steller���s S,265.13,Human Impact
+1389,Sabertooth Tiger,364.61,Human Impact
+1390,Woolly Mammoth,174.55,Human Impact
+1391,Trilobite,252.28,Mass Extinction
+1392,Tyrannosaurus Rex,370.5,Predation
+1393,Plesiosaur,355.23,Climate Change
+1394,Tyrannosaurus Rex,114.51,Climate Change
+1395,Megalodon,221.93,Asteroid Impact
+1396,Smilodon,248.39,Human Impact
+1397,Smilodon,469.55,Predation
+1398,Smilodon,244.11,Predation
+1399,Megalodon,245.58,Habitat Loss
+1400,Smilodon,148.09,Habitat Loss
+1401,Quagga,19.39,Mass Extinction
+1402,Megalodon,419.58,Mass Extinction
+1403,Tyrannosaurus Rex,281.71,Human Impact
+1404,Trilobite,122.47,Predation
+1405,Dodo,374.33,Natural Disaster
+1406,Quagga,331.6,Natural Disaster
+1407,Trilobite,290.82,Climate Change
+1408,Trilobite,38.71,Mass Extinction
+1409,Sabertooth Tiger,427.58,Human Impact
+1410,Quagga,236.87,Asteroid Impact
+1411,Smilodon,344.89,Habitat Loss
+1412,Megalodon,383.11,Human Impact
+1413,Megalodon,355.14,Natural Disaster
+1414,Steller���s S,275.39,Asteroid Impact
+1415,Steller���s S,440.58,Habitat Loss
+1416,Plesiosaur,30.31,Habitat Loss
+1417,Tyrannosaurus Rex,408.12,Human Impact
+1418,Tyrannosaurus Rex,215.57,Habitat Loss
+1419,Plesiosaur,188.01,Mass Extinction
+1420,Sabertooth Tiger,85.94,Climate Change
+1421,Steller���s S,65.18,Climate Change
+1422,Megalodon,113.64,Predation
+1423,Quagga,437.13,Human Impact
+1424,Quagga,398.84,Climate Change
+1425,Tyrannosaurus Rex,499.37,Asteroid Impact
+1426,Plesiosaur,499.87,Asteroid Impact
+1427,Tyrannosaurus Rex,414.82,Human Impact
+1428,Megalodon,196.37,Natural Disaster
+1429,Megalodon,42.52,Predation
+1430,Sabertooth Tiger,264.43,Habitat Loss
+1431,Dodo,39.79,Human Impact
+1432,Megalodon,145.77,Human Impact
+1433,Trilobite,239.38,Asteroid Impact
+1434,Woolly Mammoth,62.99,Asteroid Impact
+1435,Trilobite,396.51,Human Impact
+1436,Tyrannosaurus Rex,78.22,Natural Disaster
+1437,Dodo,26.36,Human Impact
+1438,Quagga,389.67,Habitat Loss
+1439,Smilodon,251.26,Habitat Loss
+1440,Dodo,256.16,Mass Extinction
+1441,Tyrannosaurus Rex,392,Mass Extinction
+1442,Sabertooth Tiger,304.84,Habitat Loss
+1443,Woolly Mammoth,379.34,Habitat Loss
+1444,Steller���s S,10.75,Predation
+1445,Trilobite,241.71,Asteroid Impact
+1446,Woolly Mammoth,195.11,Climate Change
+1447,Smilodon,147.35,Human Impact
+1448,Dodo,230.55,Human Impact
+1449,Sabertooth Tiger,210.67,Mass Extinction
+1450,Woolly Mammoth,336.66,Asteroid Impact
+1451,Trilobite,431.55,Human Impact
+1452,Steller���s S,248.25,Human Impact
+1453,Dodo,85.17,Climate Change
+1454,Smilodon,288.37,Habitat Loss
+1455,Plesiosaur,414.21,Mass Extinction
+1456,Sabertooth Tiger,434.26,Asteroid Impact
+1457,Smilodon,52,Habitat Loss
+1458,Tyrannosaurus Rex,109.56,Mass Extinction
+1459,Megalodon,164.84,Climate Change
+1460,Plesiosaur,357.76,Natural Disaster
+1461,Plesiosaur,24.21,Human Impact
+1462,Dodo,232.07,Mass Extinction
+1463,Tyrannosaurus Rex,273.01,Climate Change
+1464,Plesiosaur,309.24,Natural Disaster
+1465,Sabertooth Tiger,151.32,Habitat Loss
+1466,Dodo,440.26,Human Impact
+1467,Sabertooth Tiger,190.7,Asteroid Impact
+1468,Tyrannosaurus Rex,436.72,Mass Extinction
+1469,Steller���s S,69.71,Asteroid Impact
+1470,Woolly Mammoth,422.14,Human Impact
+1471,Tyrannosaurus Rex,243.86,Habitat Loss
+1472,Plesiosaur,412.29,Mass Extinction
+1473,Plesiosaur,137.46,Habitat Loss
+1474,Steller���s S,320.06,Climate Change
+1475,Trilobite,59.17,Natural Disaster
+1476,Quagga,375.8,Natural Disaster
+1477,Smilodon,278.37,Predation
+1478,Plesiosaur,184.09,Predation
+1479,Woolly Mammoth,127.33,Mass Extinction
+1480,Trilobite,255.78,Climate Change
+1481,Megalodon,306.62,Climate Change
+1482,Plesiosaur,174.8,Natural Disaster
+1483,Smilodon,331.54,Mass Extinction
+1484,Dodo,87.65,Human Impact
+1485,Plesiosaur,475.01,Climate Change
+1486,Steller���s S,195.27,Predation
+1487,Quagga,489.37,Climate Change
+1488,Woolly Mammoth,57.74,Human Impact
+1489,Dodo,214.82,Predation
+1490,Sabertooth Tiger,370.23,Human Impact
+1491,Sabertooth Tiger,476.08,Natural Disaster
+1492,Sabertooth Tiger,495.25,Habitat Loss
+1493,Tyrannosaurus Rex,459.8,Mass Extinction
+1494,Sabertooth Tiger,414.05,Asteroid Impact
+1495,Quagga,116.82,Predation
+1496,Dodo,294.18,Mass Extinction
+1497,Tyrannosaurus Rex,169.37,Climate Change
+1498,Plesiosaur,127.41,Asteroid Impact
+1499,Smilodon,277.61,Mass Extinction
+1500,Smilodon,175.04,Asteroid Impact
+1501,Quagga,150.4,Climate Change
+1502,Sabertooth Tiger,218.82,Climate Change
+1503,Trilobite,227.38,Human Impact
+1504,Tyrannosaurus Rex,464.97,Mass Extinction
+1505,Plesiosaur,261.61,Predation
+1506,Quagga,249.06,Mass Extinction
+1507,Woolly Mammoth,361.22,Natural Disaster
+1508,Tyrannosaurus Rex,125.69,Habitat Loss
+1509,Trilobite,430.76,Natural Disaster
+1510,Woolly Mammoth,14.96,Predation
+1511,Steller���s S,210.58,Natural Disaster
+1512,Tyrannosaurus Rex,410.45,Asteroid Impact
+1513,Smilodon,229.74,Predation
+1514,Quagga,388.93,Asteroid Impact
+1515,Steller���s S,358.46,Predation
+1516,Trilobite,195.67,Predation
+1517,Plesiosaur,255.26,Human Impact
+1518,Tyrannosaurus Rex,114.7,Mass Extinction
+1519,Tyrannosaurus Rex,387.59,Predation
+1520,Tyrannosaurus Rex,313.77,Asteroid Impact
+1521,Woolly Mammoth,441.56,Climate Change
+1522,Plesiosaur,424.5,Mass Extinction
+1523,Steller���s S,324.33,Mass Extinction
+1524,Steller���s S,172.61,Asteroid Impact
+1525,Woolly Mammoth,258.23,Habitat Loss
+1526,Woolly Mammoth,241.74,Predation
+1527,Sabertooth Tiger,102.8,Predation
+1528,Plesiosaur,12.89,Human Impact
+1529,Trilobite,140.2,Mass Extinction
+1530,Megalodon,189.66,Habitat Loss
+1531,Plesiosaur,203.55,Human Impact
+1532,Sabertooth Tiger,59.47,Asteroid Impact
+1533,Plesiosaur,223.54,Asteroid Impact
+1534,Quagga,296.63,Human Impact
+1535,Tyrannosaurus Rex,397.99,Climate Change
+1536,Quagga,412.26,Natural Disaster
+1537,Woolly Mammoth,377.64,Natural Disaster
+1538,Quagga,376.18,Asteroid Impact
+1539,Megalodon,88.5,Habitat Loss
+1540,Megalodon,169.71,Asteroid Impact
+1541,Dodo,490.24,Predation
+1542,Steller���s S,420.58,Natural Disaster
+1543,Woolly Mammoth,339.64,Mass Extinction
+1544,Plesiosaur,149.3,Asteroid Impact
+1545,Megalodon,415.3,Asteroid Impact
+1546,Smilodon,92.48,Asteroid Impact
+1547,Quagga,431.86,Habitat Loss
+1548,Megalodon,19.19,Asteroid Impact
+1549,Tyrannosaurus Rex,213.15,Mass Extinction
+1550,Quagga,345.54,Climate Change
+1551,Quagga,332.79,Predation
+1552,Smilodon,388.83,Natural Disaster
+1553,Quagga,82.86,Climate Change
+1554,Tyrannosaurus Rex,433.02,Habitat Loss
+1555,Trilobite,291.57,Human Impact
+1556,Tyrannosaurus Rex,419.24,Human Impact
+1557,Woolly Mammoth,72.88,Habitat Loss
+1558,Woolly Mammoth,427.38,Predation
+1559,Smilodon,9.92,Climate Change
+1560,Sabertooth Tiger,490.84,Natural Disaster
+1561,Tyrannosaurus Rex,235.34,Predation
+1562,Tyrannosaurus Rex,421.84,Predation
+1563,Smilodon,151.21,Mass Extinction
+1564,Trilobite,457.02,Human Impact
+1565,Plesiosaur,495.28,Asteroid Impact
+1566,Megalodon,216.68,Human Impact
+1567,Megalodon,121.29,Asteroid Impact
+1568,Sabertooth Tiger,343.44,Asteroid Impact
+1569,Trilobite,152.99,Human Impact
+1570,Tyrannosaurus Rex,382.31,Climate Change
+1571,Sabertooth Tiger,481.96,Natural Disaster
+1572,Steller���s S,126.06,Habitat Loss
+1573,Trilobite,124.82,Predation
+1574,Smilodon,274.46,Natural Disaster
+1575,Megalodon,14.31,Natural Disaster
+1576,Tyrannosaurus Rex,222.49,Human Impact
+1577,Tyrannosaurus Rex,18.99,Natural Disaster
+1578,Plesiosaur,424.06,Asteroid Impact
+1579,Sabertooth Tiger,86.42,Mass Extinction
+1580,Steller���s S,319.8,Natural Disaster
+1581,Plesiosaur,33.86,Asteroid Impact
+1582,Quagga,111.45,Mass Extinction
+1583,Sabertooth Tiger,214.79,Habitat Loss
+1584,Woolly Mammoth,38.17,Predation
+1585,Plesiosaur,321.26,Predation
+1586,Smilodon,102.29,Human Impact
+1587,Plesiosaur,66.62,Habitat Loss
+1588,Plesiosaur,46.21,Predation
+1589,Quagga,330.57,Habitat Loss
+1590,Tyrannosaurus Rex,158.69,Human Impact
+1591,Woolly Mammoth,76.99,Human Impact
+1592,Plesiosaur,235.9,Climate Change
+1593,Megalodon,81.89,Climate Change
+1594,Smilodon,96.96,Predation
+1595,Trilobite,147.21,Mass Extinction
+1596,Smilodon,67.26,Human Impact
+1597,Megalodon,472.13,Climate Change
+1598,Quagga,497.09,Human Impact
+1599,Plesiosaur,368.49,Mass Extinction
+1600,Dodo,246.96,Predation
+1601,Smilodon,102.86,Natural Disaster
+1602,Woolly Mammoth,306.48,Predation
+1603,Trilobite,340.34,Natural Disaster
+1604,Trilobite,271.09,Asteroid Impact
+1605,Sabertooth Tiger,173.59,Predation
+1606,Trilobite,9.48,Climate Change
+1607,Dodo,491.91,Habitat Loss
+1608,Tyrannosaurus Rex,339.37,Asteroid Impact
+1609,Dodo,39.63,Climate Change
+1610,Tyrannosaurus Rex,472.56,Climate Change
+1611,Plesiosaur,251.05,Habitat Loss
+1612,Steller���s S,109.42,Climate Change
+1613,Plesiosaur,375.52,Natural Disaster
+1614,Megalodon,181.51,Human Impact
+1615,Quagga,32.89,Human Impact
+1616,Smilodon,70.96,Asteroid Impact
+1617,Megalodon,164.92,Climate Change
+1618,Sabertooth Tiger,396.08,Mass Extinction
+1619,Quagga,410.41,Asteroid Impact
+1620,Steller���s S,424.2,Human Impact
+1621,Trilobite,55.67,Predation
+1622,Dodo,35.09,Human Impact
+1623,Plesiosaur,44.69,Human Impact
+1624,Steller���s S,341.69,Predation
+1625,Smilodon,327.06,Mass Extinction
+1626,Dodo,16.56,Human Impact
+1627,Quagga,458.78,Habitat Loss
+1628,Quagga,262.39,Natural Disaster
+1629,Plesiosaur,404.91,Climate Change
+1630,Megalodon,473.28,Predation
+1631,Trilobite,180.03,Predation
+1632,Quagga,255.46,Climate Change
+1633,Quagga,139.92,Mass Extinction
+1634,Plesiosaur,291.82,Mass Extinction
+1635,Plesiosaur,125.87,Predation
+1636,Trilobite,299.2,Human Impact
+1637,Steller���s S,228.44,Human Impact
+1638,Sabertooth Tiger,157.96,Habitat Loss
+1639,Quagga,112.02,Natural Disaster
+1640,Dodo,390.98,Human Impact
+1641,Smilodon,261.4,Habitat Loss
+1642,Quagga,145.02,Asteroid Impact
+1643,Plesiosaur,73.33,Asteroid Impact
+1644,Dodo,242.94,Asteroid Impact
+1645,Smilodon,81.24,Natural Disaster
+1646,Smilodon,473.17,Asteroid Impact
+1647,Sabertooth Tiger,32.03,Natural Disaster
+1648,Trilobite,445.44,Mass Extinction
+1649,Dodo,283.89,Human Impact
+1650,Sabertooth Tiger,358.06,Climate Change
+1651,Tyrannosaurus Rex,57.58,Natural Disaster
+1652,Smilodon,138.96,Predation
+1653,Plesiosaur,275.54,Habitat Loss
+1654,Megalodon,262.88,Natural Disaster
+1655,Plesiosaur,343.8,Habitat Loss
+1656,Woolly Mammoth,332.5,Predation
+1657,Smilodon,446.19,Predation
+1658,Plesiosaur,338.41,Natural Disaster
+1659,Woolly Mammoth,363.89,Habitat Loss
+1660,Smilodon,85.52,Predation
+1661,Tyrannosaurus Rex,49.06,Natural Disaster
+1662,Dodo,225.62,Climate Change
+1663,Trilobite,278.7,Climate Change
+1664,Quagga,476.51,Natural Disaster
+1665,Quagga,32.31,Habitat Loss
+1666,Trilobite,237.1,Human Impact
+1667,Trilobite,230.9,Human Impact
+1668,Woolly Mammoth,134.65,Climate Change
+1669,Plesiosaur,127.51,Human Impact
+1670,Trilobite,31.48,Predation
+1671,Steller���s S,335.6,Habitat Loss
+1672,Smilodon,255.44,Climate Change
+1673,Plesiosaur,266.1,Climate Change
+1674,Tyrannosaurus Rex,474.34,Mass Extinction
+1675,Smilodon,378.07,Habitat Loss
+1676,Megalodon,457.73,Human Impact
+1677,Megalodon,340.2,Human Impact
+1678,Tyrannosaurus Rex,292.8,Climate Change
+1679,Woolly Mammoth,17.98,Mass Extinction
+1680,Steller���s S,159.53,Human Impact
+1681,Dodo,244.98,Asteroid Impact
+1682,Woolly Mammoth,78.73,Predation
+1683,Steller���s S,268.68,Mass Extinction
+1684,Megalodon,10.86,Predation
+1685,Tyrannosaurus Rex,464.57,Human Impact
+1686,Dodo,171.16,Mass Extinction
+1687,Steller���s S,158.61,Habitat Loss
+1688,Plesiosaur,394.03,Climate Change
+1689,Woolly Mammoth,410,Human Impact
+1690,Woolly Mammoth,484.63,Mass Extinction
+1691,Dodo,261.45,Habitat Loss
+1692,Plesiosaur,2.35,Asteroid Impact
+1693,Dodo,415.12,Habitat Loss
+1694,Sabertooth Tiger,243.64,Habitat Loss
+1695,Tyrannosaurus Rex,408.79,Predation
+1696,Plesiosaur,427.79,Habitat Loss
+1697,Steller���s S,191.92,Asteroid Impact
+1698,Megalodon,288.41,Climate Change
+1699,Sabertooth Tiger,45.65,Asteroid Impact
+1700,Woolly Mammoth,109.09,Human Impact
+1701,Tyrannosaurus Rex,247.46,Climate Change
+1702,Dodo,141.5,Climate Change
+1703,Dodo,270.92,Habitat Loss
+1704,Megalodon,378.45,Mass Extinction
+1705,Dodo,474.54,Mass Extinction
+1706,Trilobite,411.94,Habitat Loss
+1707,Megalodon,472.61,Natural Disaster
+1708,Woolly Mammoth,391.54,Climate Change
+1709,Sabertooth Tiger,316.69,Mass Extinction
+1710,Quagga,280.28,Human Impact
+1711,Tyrannosaurus Rex,206.69,Climate Change
+1712,Sabertooth Tiger,447.2,Mass Extinction
+1713,Woolly Mammoth,110.48,Human Impact
+1714,Steller���s S,368,Asteroid Impact
+1715,Tyrannosaurus Rex,183.08,Climate Change
+1716,Sabertooth Tiger,136.16,Mass Extinction
+1717,Smilodon,158.35,Mass Extinction
+1718,Steller���s S,223.29,Asteroid Impact
+1719,Sabertooth Tiger,277.56,Climate Change
+1720,Tyrannosaurus Rex,101.7,Asteroid Impact
+1721,Steller���s S,197.85,Natural Disaster
+1722,Plesiosaur,471.73,Asteroid Impact
+1723,Steller���s S,341.82,Mass Extinction
+1724,Plesiosaur,343.26,Asteroid Impact
+1725,Sabertooth Tiger,148.06,Habitat Loss
+1726,Plesiosaur,39.31,Natural Disaster
+1727,Tyrannosaurus Rex,484.96,Natural Disaster
+1728,Tyrannosaurus Rex,73.41,Asteroid Impact
+1729,Tyrannosaurus Rex,360.42,Human Impact
+1730,Tyrannosaurus Rex,457.12,Climate Change
+1731,Quagga,15.01,Natural Disaster
+1732,Sabertooth Tiger,18.93,Climate Change
+1733,Tyrannosaurus Rex,251.85,Natural Disaster
+1734,Trilobite,380.92,Habitat Loss
+1735,Megalodon,62.98,Climate Change
+1736,Woolly Mammoth,111.42,Climate Change
+1737,Plesiosaur,220.83,Natural Disaster
+1738,Tyrannosaurus Rex,400.07,Human Impact
+1739,Quagga,232.05,Predation
+1740,Plesiosaur,301.91,Asteroid Impact
+1741,Steller���s S,388.12,Human Impact
+1742,Woolly Mammoth,185.5,Climate Change
+1743,Dodo,305.09,Predation
+1744,Tyrannosaurus Rex,154.61,Climate Change
+1745,Trilobite,388.56,Habitat Loss
+1746,Plesiosaur,216.79,Human Impact
+1747,Tyrannosaurus Rex,136.21,Habitat Loss
+1748,Plesiosaur,169.43,Human Impact
+1749,Sabertooth Tiger,263.47,Asteroid Impact
+1750,Smilodon,213.28,Predation
+1751,Smilodon,434.8,Asteroid Impact
+1752,Sabertooth Tiger,317.06,Climate Change
+1753,Dodo,380.46,Climate Change
+1754,Sabertooth Tiger,499.58,Climate Change
+1755,Woolly Mammoth,47.01,Predation
+1756,Dodo,14.82,Habitat Loss
+1757,Sabertooth Tiger,178.63,Predation
+1758,Trilobite,272.34,Mass Extinction
+1759,Sabertooth Tiger,383.06,Climate Change
+1760,Quagga,455.09,Habitat Loss
+1761,Sabertooth Tiger,390.23,Natural Disaster
+1762,Megalodon,366.29,Climate Change
+1763,Megalodon,416.64,Asteroid Impact
+1764,Megalodon,64.83,Habitat Loss
+1765,Tyrannosaurus Rex,377.36,Natural Disaster
+1766,Megalodon,252.39,Natural Disaster
+1767,Woolly Mammoth,401.92,Human Impact
+1768,Quagga,286.45,Predation
+1769,Megalodon,348.17,Climate Change
+1770,Sabertooth Tiger,141.01,Mass Extinction
+1771,Sabertooth Tiger,217.13,Habitat Loss
+1772,Megalodon,367.98,Asteroid Impact
+1773,Sabertooth Tiger,90.21,Climate Change
+1774,Steller���s S,243.99,Human Impact
+1775,Megalodon,108.09,Habitat Loss
+1776,Plesiosaur,239.31,Mass Extinction
+1777,Tyrannosaurus Rex,135.35,Predation
+1778,Plesiosaur,162.42,Predation
+1779,Dodo,158.08,Climate Change
+1780,Tyrannosaurus Rex,198.77,Predation
+1781,Megalodon,237.23,Habitat Loss
+1782,Dodo,144.12,Habitat Loss
+1783,Trilobite,116.61,Asteroid Impact
+1784,Woolly Mammoth,404.78,Predation
+1785,Tyrannosaurus Rex,224.28,Natural Disaster
+1786,Plesiosaur,462,Human Impact
+1787,Dodo,259.24,Mass Extinction
+1788,Sabertooth Tiger,174.86,Natural Disaster
+1789,Quagga,35.25,Mass Extinction
+1790,Steller���s S,159.71,Natural Disaster
+1791,Plesiosaur,251.16,Climate Change
+1792,Dodo,118.7,Mass Extinction
+1793,Quagga,355.52,Mass Extinction
+1794,Smilodon,345.7,Human Impact
+1795,Dodo,304.49,Habitat Loss
+1796,Smilodon,22.81,Predation
+1797,Steller���s S,141.87,Predation
+1798,Woolly Mammoth,235.85,Climate Change
+1799,Megalodon,238.19,Natural Disaster
+1800,Woolly Mammoth,238.84,Natural Disaster
+1801,Quagga,357.64,Habitat Loss
+1802,Trilobite,438.54,Habitat Loss
+1803,Quagga,329.02,Climate Change
+1804,Plesiosaur,300.28,Natural Disaster
+1805,Megalodon,189.01,Climate Change
+1806,Megalodon,16.75,Asteroid Impact
+1807,Plesiosaur,351.9,Climate Change
+1808,Quagga,73.01,Habitat Loss
+1809,Tyrannosaurus Rex,105.2,Habitat Loss
+1810,Tyrannosaurus Rex,104.69,Predation
+1811,Quagga,186.91,Asteroid Impact
+1812,Sabertooth Tiger,340.6,Human Impact
+1813,Megalodon,216.88,Human Impact
+1814,Sabertooth Tiger,408.01,Predation
+1815,Tyrannosaurus Rex,248.26,Human Impact
+1816,Trilobite,75.66,Human Impact
+1817,Trilobite,41.48,Asteroid Impact
+1818,Woolly Mammoth,272.11,Human Impact
+1819,Quagga,26.76,Climate Change
+1820,Quagga,83.89,Habitat Loss
+1821,Sabertooth Tiger,174.04,Habitat Loss
+1822,Smilodon,118.84,Human Impact
+1823,Steller���s S,89.83,Asteroid Impact
+1824,Sabertooth Tiger,444.69,Natural Disaster
+1825,Tyrannosaurus Rex,427.89,Natural Disaster
+1826,Trilobite,345.34,Natural Disaster
+1827,Steller���s S,413.43,Asteroid Impact
+1828,Smilodon,218.13,Human Impact
+1829,Trilobite,222.99,Mass Extinction
+1830,Sabertooth Tiger,368.31,Predation
+1831,Tyrannosaurus Rex,452.25,Mass Extinction
+1832,Smilodon,236.83,Predation
+1833,Sabertooth Tiger,308.15,Human Impact
+1834,Tyrannosaurus Rex,421.13,Mass Extinction
+1835,Trilobite,33.33,Natural Disaster
+1836,Plesiosaur,209.6,Habitat Loss
+1837,Plesiosaur,428.48,Mass Extinction
+1838,Quagga,182.71,Habitat Loss
+1839,Smilodon,279.75,Predation
+1840,Sabertooth Tiger,342.99,Human Impact
+1841,Quagga,304.15,Climate Change
+1842,Megalodon,174.26,Mass Extinction
+1843,Trilobite,429.21,Mass Extinction
+1844,Sabertooth Tiger,14.69,Asteroid Impact
+1845,Trilobite,31.68,Mass Extinction
+1846,Woolly Mammoth,30.19,Habitat Loss
+1847,Dodo,95.09,Natural Disaster
+1848,Dodo,499.7,Climate Change
+1849,Megalodon,211.52,Predation
+1850,Trilobite,150.05,Climate Change
+1851,Plesiosaur,472.94,Natural Disaster
+1852,Plesiosaur,481.11,Mass Extinction
+1853,Trilobite,451.28,Human Impact
+1854,Dodo,212.73,Asteroid Impact
+1855,Plesiosaur,208.11,Habitat Loss
+1856,Smilodon,122.85,Climate Change
+1857,Smilodon,73.28,Mass Extinction
+1858,Smilodon,213.75,Mass Extinction
+1859,Plesiosaur,247.99,Asteroid Impact
+1860,Plesiosaur,398.85,Habitat Loss
+1861,Quagga,19.65,Climate Change
+1862,Trilobite,300.61,Asteroid Impact
+1863,Smilodon,111.32,Asteroid Impact
+1864,Plesiosaur,201.28,Human Impact
+1865,Steller���s S,318.89,Habitat Loss
+1866,Plesiosaur,407.77,Natural Disaster
+1867,Megalodon,463.64,Asteroid Impact
+1868,Woolly Mammoth,324.69,Asteroid Impact
+1869,Sabertooth Tiger,244.23,Human Impact
+1870,Megalodon,382.18,Natural Disaster
+1871,Plesiosaur,7.39,Mass Extinction
+1872,Plesiosaur,231.79,Habitat Loss
+1873,Smilodon,419.26,Habitat Loss
+1874,Quagga,122.74,Natural Disaster
+1875,Megalodon,91.18,Predation
+1876,Dodo,499.7,Mass Extinction
+1877,Plesiosaur,108.06,Habitat Loss
+1878,Sabertooth Tiger,236.74,Climate Change
+1879,Megalodon,262.8,Climate Change
+1880,Woolly Mammoth,352.1,Habitat Loss
+1881,Quagga,73.53,Human Impact
+1882,Steller���s S,26.3,Mass Extinction
+1883,Woolly Mammoth,453.66,Human Impact
+1884,Smilodon,430.08,Predation
+1885,Megalodon,128.91,Habitat Loss
+1886,Dodo,403.77,Habitat Loss
+1887,Dodo,299.8,Asteroid Impact
+1888,Woolly Mammoth,20.78,Human Impact
+1889,Steller���s S,224.49,Asteroid Impact
+1890,Smilodon,427.62,Human Impact
+1891,Steller���s S,279.91,Mass Extinction
+1892,Quagga,52.54,Habitat Loss
+1893,Woolly Mammoth,76.6,Asteroid Impact
+1894,Steller���s S,128.12,Climate Change
+1895,Sabertooth Tiger,430.37,Asteroid Impact
+1896,Tyrannosaurus Rex,397.66,Human Impact
+1897,Megalodon,233.95,Habitat Loss
+1898,Trilobite,325.43,Natural Disaster
+1899,Smilodon,120.82,Predation
+1900,Sabertooth Tiger,269.32,Natural Disaster
+1901,Dodo,468.56,Asteroid Impact
+1902,Steller���s S,195.28,Human Impact
+1903,Smilodon,347.81,Habitat Loss
+1904,Dodo,77.58,Asteroid Impact
+1905,Megalodon,360.86,Mass Extinction
+1906,Plesiosaur,311.43,Mass Extinction
+1907,Dodo,364.13,Human Impact
+1908,Megalodon,299.7,Asteroid Impact
+1909,Quagga,104.16,Asteroid Impact
+1910,Smilodon,62.5,Climate Change
+1911,Sabertooth Tiger,221.76,Human Impact
+1912,Megalodon,335.35,Human Impact
+1913,Sabertooth Tiger,80.25,Asteroid Impact
+1914,Trilobite,54.72,Mass Extinction
+1915,Sabertooth Tiger,330.27,Natural Disaster
+1916,Quagga,396.23,Natural Disaster
+1917,Megalodon,443.77,Habitat Loss
+1918,Woolly Mammoth,486.32,Habitat Loss
+1919,Sabertooth Tiger,20.75,Mass Extinction
+1920,Sabertooth Tiger,170.9,Asteroid Impact
+1921,Dodo,9.06,Habitat Loss
+1922,Sabertooth Tiger,135.94,Natural Disaster
+1923,Dodo,373.93,Human Impact
+1924,Tyrannosaurus Rex,205.51,Asteroid Impact
+1925,Quagga,132.76,Natural Disaster
+1926,Plesiosaur,65.26,Climate Change
+1927,Sabertooth Tiger,98.7,Climate Change
+1928,Sabertooth Tiger,320.74,Climate Change
+1929,Smilodon,86.09,Natural Disaster
+1930,Steller���s S,460.14,Climate Change
+1931,Plesiosaur,119.38,Habitat Loss
+1932,Quagga,453.02,Predation
+1933,Dodo,44.29,Climate Change
+1934,Sabertooth Tiger,79.74,Asteroid Impact
+1935,Megalodon,390.82,Habitat Loss
+1936,Dodo,153.25,Human Impact
+1937,Trilobite,150.55,Asteroid Impact
+1938,Trilobite,138.95,Asteroid Impact
+1939,Tyrannosaurus Rex,383.71,Habitat Loss
+1940,Woolly Mammoth,459.41,Habitat Loss
+1941,Woolly Mammoth,465.36,Human Impact
+1942,Smilodon,291.4,Climate Change
+1943,Quagga,131.8,Human Impact
+1944,Smilodon,143.45,Mass Extinction
+1945,Steller���s S,15.42,Mass Extinction
+1946,Smilodon,416.37,Predation
+1947,Sabertooth Tiger,378.15,Natural Disaster
+1948,Sabertooth Tiger,151.24,Human Impact
+1949,Plesiosaur,324.89,Natural Disaster
+1950,Trilobite,339.81,Climate Change
+1951,Tyrannosaurus Rex,219.64,Mass Extinction
+1952,Dodo,96.78,Predation
+1953,Plesiosaur,170.72,Mass Extinction
+1954,Quagga,4.7,Asteroid Impact
+1955,Quagga,284.4,Predation
+1956,Steller���s S,263.71,Climate Change
+1957,Dodo,402.03,Mass Extinction
+1958,Quagga,431.96,Asteroid Impact
+1959,Smilodon,276.28,Mass Extinction
+1960,Quagga,306.67,Natural Disaster
+1961,Megalodon,79.45,Natural Disaster
+1962,Steller���s S,7.19,Natural Disaster
+1963,Smilodon,7.89,Human Impact
+1964,Trilobite,450.15,Habitat Loss
+1965,Quagga,175.28,Predation
+1966,Quagga,292.5,Human Impact
+1967,Quagga,143.15,Mass Extinction
+1968,Steller���s S,185.81,Climate Change
+1969,Woolly Mammoth,472.37,Predation
+1970,Dodo,371.64,Natural Disaster
+1971,Sabertooth Tiger,465.91,Mass Extinction
+1972,Woolly Mammoth,369.59,Mass Extinction
+1973,Woolly Mammoth,250.58,Predation
+1974,Dodo,201.08,Climate Change
+1975,Megalodon,361.79,Habitat Loss
+1976,Dodo,129.17,Natural Disaster
+1977,Megalodon,92.08,Climate Change
+1978,Plesiosaur,489.62,Mass Extinction
+1979,Smilodon,310.25,Human Impact
+1980,Quagga,493.6,Climate Change
+1981,Plesiosaur,491.17,Habitat Loss
+1982,Plesiosaur,387.76,Habitat Loss
+1983,Trilobite,465.29,Human Impact
+1984,Dodo,287.83,Climate Change
+1985,Plesiosaur,494.99,Predation
+1986,Dodo,239.31,Human Impact
+1987,Plesiosaur,467.17,Human Impact
+1988,Megalodon,198.33,Predation
+1989,Sabertooth Tiger,249.97,Asteroid Impact
+1990,Trilobite,45.85,Mass Extinction
+1991,Megalodon,339.05,Climate Change
+1992,Sabertooth Tiger,300.9,Habitat Loss
+1993,Steller���s S,164.27,Asteroid Impact
+1994,Sabertooth Tiger,230.07,Habitat Loss
+1995,Quagga,122.21,Habitat Loss
+1996,Sabertooth Tiger,354.65,Asteroid Impact
+1997,Steller���s S,455.04,Natural Disaster
+1998,Quagga,210.92,Human Impact
+1999,Dodo,459.58,Predation
+2000,Tyrannosaurus Rex,325.85,Climate Change
+2001,Megalodon,34.2,Climate Change
+2002,Plesiosaur,31.82,Predation
